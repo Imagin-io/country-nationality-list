@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS `countries` (
   UNIQUE KEY `alpha_2_code` (`alpha_2_code`),
   UNIQUE KEY `alpha_3_code` (`alpha_3_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-INSERT INTO `TABLE 10` (`num_code`, `alpha_2_code`, `alpha_3_code`, `en_short_name`, `nationality`) VALUES
+INSERT INTO `countries` (`num_code`, `alpha_2_code`, `alpha_3_code`, `en_short_name`, `nationality`) VALUES
 ("4", "AF", "AFG", "Afghanistan", "Afghan"),
 ("248", "AX", "ALA", "Åland Islands", "Åland Island"),
 ("8", "AL", "ALB", "Albania", "Albanian"),
