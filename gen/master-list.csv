@@ -1,250 +1,250 @@
-num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
-4,AF,AFG,Afghanistan,Afghan
-248,AX,ALA,Åland Islands,Åland Island
-8,AL,ALB,Albania,Albanian
-12,DZ,DZA,Algeria,Algerian
-16,AS,ASM,American Samoa,American Samoan
-20,AD,AND,Andorra,Andorran
-24,AO,AGO,Angola,Angolan
-660,AI,AIA,Anguilla,Anguillan
-10,AQ,ATA,Antarctica,Antarctic
-28,AG,ATG,Antigua and Barbuda,Antiguan or Barbudan
-32,AR,ARG,Argentina,Argentine
-51,AM,ARM,Armenia,Armenian
-533,AW,ABW,Aruba,Aruban
-36,AU,AUS,Australia,Australian
-40,AT,AUT,Austria,Austrian
-31,AZ,AZE,Azerbaijan,"Azerbaijani, Azeri"
-44,BS,BHS,Bahamas,Bahamian
-48,BH,BHR,Bahrain,Bahraini
-50,BD,BGD,Bangladesh,Bangladeshi
-52,BB,BRB,Barbados,Barbadian
-112,BY,BLR,Belarus,Belarusian
-56,BE,BEL,Belgium,Belgian
-84,BZ,BLZ,Belize,Belizean
-204,BJ,BEN,Benin,"Beninese, Beninois"
-60,BM,BMU,Bermuda,"Bermudian, Bermudan"
-64,BT,BTN,Bhutan,Bhutanese
-68,BO,BOL,Bolivia (Plurinational State of),Bolivian
-535,BQ,BES,"Bonaire, Sint Eustatius and Saba",Bonaire
-70,BA,BIH,Bosnia and Herzegovina,Bosnian or Herzegovinian
-72,BW,BWA,Botswana,"Motswana, Botswanan"
-74,BV,BVT,Bouvet Island,Bouvet Island
-76,BR,BRA,Brazil,Brazilian
-86,IO,IOT,British Indian Ocean Territory,BIOT
-96,BN,BRN,Brunei Darussalam,Bruneian
-100,BG,BGR,Bulgaria,Bulgarian
-854,BF,BFA,Burkina Faso,Burkinabé
-108,BI,BDI,Burundi,Burundian
-132,CV,CPV,Cabo Verde,Cabo Verdean
-116,KH,KHM,Cambodia,Cambodian
-120,CM,CMR,Cameroon,Cameroonian
-124,CA,CAN,Canada,Canadian
-136,KY,CYM,Cayman Islands,Caymanian
-140,CF,CAF,Central African Republic,Central African
-148,TD,TCD,Chad,Chadian
-152,CL,CHL,Chile,Chilean
-156,CN,CHN,China,Chinese
-162,CX,CXR,Christmas Island,Christmas Island
-166,CC,CCK,Cocos (Keeling) Islands,Cocos Island
-170,CO,COL,Colombia,Colombian
-174,KM,COM,Comoros,"Comoran, Comorian"
-178,CG,COG,Congo (Republic of the),Congolese
-180,CD,COD,Congo (Democratic Republic of the),Congolese
-184,CK,COK,Cook Islands,Cook Island
-188,CR,CRI,Costa Rica,Costa Rican
-384,CI,CIV,Côte d'Ivoire,Ivorian
-191,HR,HRV,Croatia,Croatian
-192,CU,CUB,Cuba,Cuban
-531,CW,CUW,Curaçao,Curaçaoan
-196,CY,CYP,Cyprus,Cypriot
-203,CZ,CZE,Czech Republic,Czech
-208,DK,DNK,Denmark,Danish
-262,DJ,DJI,Djibouti,Djiboutian
-212,DM,DMA,Dominica,Dominican
-214,DO,DOM,Dominican Republic,Dominican
-218,EC,ECU,Ecuador,Ecuadorian
-818,EG,EGY,Egypt,Egyptian
-222,SV,SLV,El Salvador,Salvadoran
-226,GQ,GNQ,Equatorial Guinea,"Equatorial Guinean, Equatoguinean"
-232,ER,ERI,Eritrea,Eritrean
-233,EE,EST,Estonia,Estonian
-231,ET,ETH,Ethiopia,Ethiopian
-238,FK,FLK,Falkland Islands (Malvinas),Falkland Island
-234,FO,FRO,Faroe Islands,Faroese
-242,FJ,FJI,Fiji,Fijian
-246,FI,FIN,Finland,Finnish
-250,FR,FRA,France,French
-254,GF,GUF,French Guiana,French Guianese
-258,PF,PYF,French Polynesia,French Polynesian
-260,TF,ATF,French Southern Territories,French Southern Territories
-266,GA,GAB,Gabon,Gabonese
-270,GM,GMB,Gambia,Gambian
-268,GE,GEO,Georgia,Georgian
-276,DE,DEU,Germany,German
-288,GH,GHA,Ghana,Ghanaian
-292,GI,GIB,Gibraltar,Gibraltar
-300,GR,GRC,Greece,"Greek, Hellenic"
-304,GL,GRL,Greenland,Greenlandic
-308,GD,GRD,Grenada,Grenadian
-312,GP,GLP,Guadeloupe,Guadeloupe
-316,GU,GUM,Guam,"Guamanian, Guambat"
-320,GT,GTM,Guatemala,Guatemalan
-831,GG,GGY,Guernsey,Channel Island
-324,GN,GIN,Guinea,Guinean
-624,GW,GNB,Guinea-Bissau,Bissau-Guinean
-328,GY,GUY,Guyana,Guyanese
-332,HT,HTI,Haiti,Haitian
-334,HM,HMD,Heard Island and McDonald Islands,Heard Island or McDonald Islands
-336,VA,VAT,Vatican City State,Vatican
-340,HN,HND,Honduras,Honduran
-344,HK,HKG,Hong Kong,"Hong Kong, Hong Kongese"
-348,HU,HUN,Hungary,"Hungarian, Magyar"
-352,IS,ISL,Iceland,Icelandic
-356,IN,IND,India,Indian
-360,ID,IDN,Indonesia,Indonesian
-364,IR,IRN,Iran,"Iranian, Persian"
-368,IQ,IRQ,Iraq,Iraqi
-372,IE,IRL,Ireland,Irish
-833,IM,IMN,Isle of Man,Manx
-376,IL,ISR,Israel,Israeli
-380,IT,ITA,Italy,Italian
-388,JM,JAM,Jamaica,Jamaican
-392,JP,JPN,Japan,Japanese
-832,JE,JEY,Jersey,Channel Island
-400,JO,JOR,Jordan,Jordanian
-398,KZ,KAZ,Kazakhstan,"Kazakhstani, Kazakh"
-404,KE,KEN,Kenya,Kenyan
-296,KI,KIR,Kiribati,I-Kiribati
-408,KP,PRK,Korea (Democratic People's Republic of),North Korean
-410,KR,KOR,Korea (Republic of),South Korean
-414,KW,KWT,Kuwait,Kuwaiti
-417,KG,KGZ,Kyrgyzstan,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
-418,LA,LAO,Lao People's Democratic Republic,"Lao, Laotian"
-428,LV,LVA,Latvia,Latvian
-422,LB,LBN,Lebanon,Lebanese
-426,LS,LSO,Lesotho,Basotho
-430,LR,LBR,Liberia,Liberian
-434,LY,LBY,Libya,Libyan
-438,LI,LIE,Liechtenstein,Liechtenstein
-440,LT,LTU,Lithuania,Lithuanian
-442,LU,LUX,Luxembourg,"Luxembourg, Luxembourgish"
-446,MO,MAC,Macao,"Macanese, Chinese"
-807,MK,MKD,Macedonia (the former Yugoslav Republic of),Macedonian
-450,MG,MDG,Madagascar,Malagasy
-454,MW,MWI,Malawi,Malawian
-458,MY,MYS,Malaysia,Malaysian
-462,MV,MDV,Maldives,Maldivian
-466,ML,MLI,Mali,"Malian, Malinese"
-470,MT,MLT,Malta,Maltese
-584,MH,MHL,Marshall Islands,Marshallese
-474,MQ,MTQ,Martinique,"Martiniquais, Martinican"
-478,MR,MRT,Mauritania,Mauritanian
-480,MU,MUS,Mauritius,Mauritian
-175,YT,MYT,Mayotte,Mahoran
-484,MX,MEX,Mexico,Mexican
-583,FM,FSM,Micronesia (Federated States of),Micronesian
-498,MD,MDA,Moldova (Republic of),Moldovan
-492,MC,MCO,Monaco,"Monégasque, Monacan"
-496,MN,MNG,Mongolia,Mongolian
-499,ME,MNE,Montenegro,Montenegrin
-500,MS,MSR,Montserrat,Montserratian
-504,MA,MAR,Morocco,Moroccan
-508,MZ,MOZ,Mozambique,Mozambican
-104,MM,MMR,Myanmar,Burmese
-516,NA,NAM,Namibia,Namibian
-520,NR,NRU,Nauru,Nauruan
-524,NP,NPL,Nepal,"Nepali, Nepalese"
-528,NL,NLD,Netherlands,"Dutch, Netherlandic"
-540,NC,NCL,New Caledonia,New Caledonian
-554,NZ,NZL,New Zealand,"New Zealand, NZ"
-558,NI,NIC,Nicaragua,Nicaraguan
-562,NE,NER,Niger,Nigerien
-566,NG,NGA,Nigeria,Nigerian
-570,NU,NIU,Niue,Niuean
-574,NF,NFK,Norfolk Island,Norfolk Island
-580,MP,MNP,Northern Mariana Islands,Northern Marianan
-578,NO,NOR,Norway,Norwegian
-512,OM,OMN,Oman,Omani
-586,PK,PAK,Pakistan,Pakistani
-585,PW,PLW,Palau,Palauan
-275,PS,PSE,"Palestine, State of",Palestinian
-591,PA,PAN,Panama,Panamanian
-598,PG,PNG,Papua New Guinea,"Papua New Guinean, Papuan"
-600,PY,PRY,Paraguay,Paraguayan
-604,PE,PER,Peru,Peruvian
-608,PH,PHL,Philippines,"Philippine, Filipino"
-612,PN,PCN,Pitcairn,Pitcairn Island
-616,PL,POL,Poland,Polish
-620,PT,PRT,Portugal,Portuguese
-630,PR,PRI,Puerto Rico,Puerto Rican
-634,QA,QAT,Qatar,Qatari
-638,RE,REU,Réunion,"Réunionese, Réunionnais"
-642,RO,ROU,Romania,Romanian
-643,RU,RUS,Russian Federation,Russian
-646,RW,RWA,Rwanda,Rwandan
-652,BL,BLM,Saint Barthélemy,Barthélemois
-654,SH,SHN,"Saint Helena, Ascension and Tristan da Cunha",Saint Helenian
-659,KN,KNA,Saint Kitts and Nevis,Kittitian or Nevisian
-662,LC,LCA,Saint Lucia,Saint Lucian
-663,MF,MAF,Saint Martin (French part),Saint-Martinoise
-666,PM,SPM,Saint Pierre and Miquelon,Saint-Pierrais or Miquelonnais
-670,VC,VCT,Saint Vincent and the Grenadines,"Saint Vincentian, Vincentian"
-882,WS,WSM,Samoa,Samoan
-674,SM,SMR,San Marino,Sammarinese
-678,ST,STP,Sao Tome and Principe,São Toméan
-682,SA,SAU,Saudi Arabia,"Saudi, Saudi Arabian"
-686,SN,SEN,Senegal,Senegalese
-688,RS,SRB,Serbia,Serbian
-690,SC,SYC,Seychelles,Seychellois
-694,SL,SLE,Sierra Leone,Sierra Leonean
-702,SG,SGP,Singapore,Singaporean
-534,SX,SXM,Sint Maarten (Dutch part),Sint Maarten
-703,SK,SVK,Slovakia,Slovak
-705,SI,SVN,Slovenia,"Slovenian, Slovene"
-90,SB,SLB,Solomon Islands,Solomon Island
-706,SO,SOM,Somalia,"Somali, Somalian"
-710,ZA,ZAF,South Africa,South African
-239,GS,SGS,South Georgia and the South Sandwich Islands,South Georgia or South Sandwich Islands
-728,SS,SSD,South Sudan,South Sudanese
-724,ES,ESP,Spain,Spanish
-144,LK,LKA,Sri Lanka,Sri Lankan
-729,SD,SDN,Sudan,Sudanese
-740,SR,SUR,Suriname,Surinamese
-744,SJ,SJM,Svalbard and Jan Mayen,Svalbard
-748,SZ,SWZ,Swaziland,Swazi
-752,SE,SWE,Sweden,Swedish
-756,CH,CHE,Switzerland,Swiss
-760,SY,SYR,Syrian Arab Republic,Syrian
-158,TW,TWN,"Taiwan, Province of China","Chinese, Taiwanese"
-762,TJ,TJK,Tajikistan,Tajikistani
-834,TZ,TZA,"Tanzania, United Republic of",Tanzanian
-764,TH,THA,Thailand,Thai
-626,TL,TLS,Timor-Leste,Timorese
-768,TG,TGO,Togo,Togolese
-772,TK,TKL,Tokelau,Tokelauan
-776,TO,TON,Tonga,Tongan
-780,TT,TTO,Trinidad and Tobago,Trinidadian or Tobagonian
-788,TN,TUN,Tunisia,Tunisian
-792,TR,TUR,Turkey,Turkish
-795,TM,TKM,Turkmenistan,Turkmen
-796,TC,TCA,Turks and Caicos Islands,Turks and Caicos Island
-798,TV,TUV,Tuvalu,Tuvaluan
-800,UG,UGA,Uganda,Ugandan
-804,UA,UKR,Ukraine,Ukrainian
-784,AE,ARE,United Arab Emirates,"Emirati, Emirian, Emiri"
-826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,"British, UK"
-581,UM,UMI,United States Minor Outlying Islands,American
-840,US,USA,United States of America,American
-858,UY,URY,Uruguay,Uruguayan
-860,UZ,UZB,Uzbekistan,"Uzbekistani, Uzbek"
-548,VU,VUT,Vanuatu,"Ni-Vanuatu, Vanuatuan"
-862,VE,VEN,Venezuela (Bolivarian Republic of),Venezuelan
-704,VN,VNM,Vietnam,Vietnamese
-92,VG,VGB,Virgin Islands (British),British Virgin Island
-850,VI,VIR,Virgin Islands (U.S.),U.S. Virgin Island
-876,WF,WLF,Wallis and Futuna,"Wallis and Futuna, Wallisian or Futunan"
-732,EH,ESH,Western Sahara,"Sahrawi, Sahrawian, Sahraouian"
-887,YE,YEM,Yemen,Yemeni
-894,ZM,ZMB,Zambia,Zambian
-716,ZW,ZWE,Zimbabwe,Zimbabwean
+num_code,alpha_2_code,alpha_3_code,en_short_name,nationality;Authorization;visa free for short visits;visa on arrival
+4,AF,AFG,Afghanistan,Afghan;TRUE;FALSE;FALSE
+248,AX,ALA,Åland Islands,Åland Island;FALSE;FALSE;FALSE
+8,AL,ALB,Albania,Albanian;FALSE;TRUE;FALSE
+12,DZ,DZA,Algeria,Algerian;FALSE;TRUE;TRUE
+16,AS,ASM,American Samoa,American Samoan;FALSE;FALSE;FALSE
+20,AD,AND,Andorra,Andorran;FALSE;TRUE;FALSE
+24,AO,AGO,Angola,Angolan;FALSE;TRUE;FALSE
+660,AI,AIA,Anguilla,Anguillan;FALSE;FALSE;FALSE
+10,AQ,ATA,Antarctica,Antarctic;FALSE;FALSE;FALSE
+28,AG,ATG,Antigua and Barbuda,Antiguan or Barbudan;FALSE;TRUE;FALSE
+32,AR,ARG,Argentina,Argentine;FALSE;TRUE;TRUE
+51,AM,ARM,Armenia,Armenian;FALSE;TRUE;TRUE
+533,AW,ABW,Aruba,Aruban;FALSE;FALSE;FALSE
+36,AU,AUS,Australia,Australian;FALSE;TRUE;TRUE
+40,AT,AUT,Austria,Austrian;FALSE;TRUE;TRUE
+"31,AZ,AZE,Azerbaijan,""Azerbaijani, Azeri""";FALSE;TRUE;FALSE
+44,BS,BHS,Bahamas,Bahamian;FALSE;TRUE;FALSE
+48,BH,BHR,Bahrain,Bahraini;FALSE;TRUE;TRUE
+50,BD,BGD,Bangladesh,Bangladeshi;FALSE;TRUE;FALSE
+52,BB,BRB,Barbados,Barbadian;FALSE;TRUE;FALSE
+112,BY,BLR,Belarus,Belarusian;FALSE;TRUE;TRUE
+56,BE,BEL,Belgium,Belgian;FALSE;TRUE;TRUE
+84,BZ,BLZ,Belize,Belizean;FALSE;TRUE;FALSE
+"204,BJ,BEN,Benin,""Beninese, Beninois""";FALSE;TRUE;FALSE
+"60,BM,BMU,Bermuda,""Bermudian, Bermudan""";FALSE;FALSE;FALSE
+64,BT,BTN,Bhutan,Bhutanese;FALSE;TRUE;FALSE
+68,BO,BOL,Bolivia (Plurinational State of),Bolivian;FALSE;TRUE;FALSE
+"535,BQ,BES,""Bonaire, Sint Eustatius and Saba"",Bonaire";;;
+70,BA,BIH,Bosnia and Herzegovina,Bosnian or Herzegovinian;FALSE;TRUE;FALSE
+"72,BW,BWA,Botswana,""Motswana, Botswanan""";FALSE;TRUE;FALSE
+74,BV,BVT,Bouvet Island,Bouvet Island;FALSE;FALSE;FALSE
+76,BR,BRA,Brazil,Brazilian;FALSE;TRUE;TRUE
+86,IO,IOT,British Indian Ocean Territory,BIOT;FALSE;FALSE;FALSE
+96,BN,BRN,Brunei Darussalam,Bruneian;FALSE;TRUE;FALSE
+100,BG,BGR,Bulgaria,Bulgarian;FALSE;TRUE;TRUE
+854,BF,BFA,Burkina Faso,Burkinabé;FALSE;TRUE;FALSE
+108,BI,BDI,Burundi,Burundian;FALSE;TRUE;FALSE
+132,CV,CPV,Cabo Verde,Cabo Verdean;FALSE;TRUE;FALSE
+116,KH,KHM,Cambodia,Cambodian;FALSE;TRUE;FALSE
+120,CM,CMR,Cameroon,Cameroonian;TRUE;FALSE;FALSE
+124,CA,CAN,Canada,Canadian;FALSE;TRUE;TRUE
+136,KY,CYM,Cayman Islands,Caymanian;FALSE;FALSE;FALSE
+140,CF,CAF,Central African Republic,Central African;FALSE;FALSE;FALSE
+148,TD,TCD,Chad,Chadian;FALSE;TRUE;FALSE
+152,CL,CHL,Chile,Chilean;FALSE;TRUE;FALSE
+156,CN,CHN,China,Chinese;FALSE;TRUE;TRUE
+162,CX,CXR,Christmas Island,Christmas Island;FALSE;FALSE;FALSE
+166,CC,CCK,Cocos (Keeling) Islands,Cocos Island;FALSE;FALSE;FALSE
+170,CO,COL,Colombia,Colombian;FALSE;FALSE;FALSE
+"174,KM,COM,Comoros,""Comoran, Comorian""";FALSE;TRUE;FALSE
+178,CG,COG,Congo (Republic of the),Congolese;FALSE;FALSE;FALSE
+180,CD,COD,Congo (Democratic Republic of the),Congolese;FALSE;FALSE;FALSE
+184,CK,COK,Cook Islands,Cook Island;FALSE;FALSE;FALSE
+188,CR,CRI,Costa Rica,Costa Rican;FALSE;TRUE;FALSE
+384,CI,CIV,Côte d'Ivoire,Ivorian;FALSE;TRUE;FALSE
+191,HR,HRV,Croatia,Croatian;FALSE;TRUE;TRUE
+192,CU,CUB,Cuba,Cuban;FALSE;TRUE;FALSE
+531,CW,CUW,Curaçao,Curaçaoan;;;
+196,CY,CYP,Cyprus,Cypriot;FALSE;TRUE;TRUE
+203,CZ,CZE,Czech Republic,Czech;FALSE;TRUE;TRUE
+208,DK,DNK,Denmark,Danish;FALSE;TRUE;TRUE
+262,DJ,DJI,Djibouti,Djiboutian;FALSE;FALSE;FALSE
+212,DM,DMA,Dominica,Dominican;FALSE;TRUE;FALSE
+214,DO,DOM,Dominican Republic,Dominican;FALSE;TRUE;FALSE
+218,EC,ECU,Ecuador,Ecuadorian;FALSE;TRUE;FALSE
+818,EG,EGY,Egypt,Egyptian;FALSE;TRUE;TRUE
+222,SV,SLV,El Salvador,Salvadoran;FALSE;TRUE;FALSE
+"226,GQ,GNQ,Equatorial Guinea,""Equatorial Guinean, Equatoguinean""";FALSE;FALSE;FALSE
+232,ER,ERI,Eritrea,Eritrean;FALSE;FALSE;FALSE
+233,EE,EST,Estonia,Estonian;FALSE;TRUE;TRUE
+231,ET,ETH,Ethiopia,Ethiopian;FALSE;FALSE;FALSE
+238,FK,FLK,Falkland Islands (Malvinas),Falkland Island;FALSE;FALSE;FALSE
+234,FO,FRO,Faroe Islands,Faroese;FALSE;FALSE;FALSE
+242,FJ,FJI,Fiji,Fijian;FALSE;TRUE;TRUE
+246,FI,FIN,Finland,Finnish;FALSE;TRUE;TRUE
+250,FR,FRA,France,French;FALSE;TRUE;TRUE
+254,GF,GUF,French Guiana,French Guianese;FALSE;FALSE;FALSE
+258,PF,PYF,French Polynesia,French Polynesian;FALSE;FALSE;FALSE
+260,TF,ATF,French Southern Territories,French Southern Territories;FALSE;FALSE;FALSE
+266,GA,GAB,Gabon,Gabonese;FALSE;TRUE;FALSE
+270,GM,GMB,Gambia,Gambian;FALSE;TRUE;FALSE
+268,GE,GEO,Georgia,Georgian;FALSE;TRUE;FALSE
+276,DE,DEU,Germany,German;FALSE;TRUE;TRUE
+288,GH,GHA,Ghana,Ghanaian;FALSE;TRUE;FALSE
+292,GI,GIB,Gibraltar,Gibraltar;FALSE;TRUE;FALSE
+"300,GR,GRC,Greece,""Greek, Hellenic""";FALSE;TRUE;TRUE
+304,GL,GRL,Greenland,Greenlandic;FALSE;FALSE;FALSE
+308,GD,GRD,Grenada,Grenadian;FALSE;TRUE;FALSE
+312,GP,GLP,Guadeloupe,Guadeloupe;FALSE;FALSE;FALSE
+"316,GU,GUM,Guam,""Guamanian, Guambat""";FALSE;FALSE;FALSE
+320,GT,GTM,Guatemala,Guatemalan;FALSE;TRUE;FALSE
+831,GG,GGY,Guernsey,Channel Island;FALSE;FALSE;FALSE
+324,GN,GIN,Guinea,Guinean;TRUE;FALSE;FALSE
+624,GW,GNB,Guinea-Bissau,Bissau-Guinean;FALSE;FALSE;FALSE
+328,GY,GUY,Guyana,Guyanese;FALSE;TRUE;FALSE
+332,HT,HTI,Haiti,Haitian;FALSE;TRUE;FALSE
+334,HM,HMD,Heard Island and McDonald Islands,Heard Island or McDonald Islands;FALSE;FALSE;FALSE
+336,VA,VAT,Vatican City State,Vatican;FALSE;TRUE;FALSE
+340,HN,HND,Honduras,Honduran;FALSE;TRUE;FALSE
+"344,HK,HKG,Hong Kong,""Hong Kong, Hong Kongese""";FALSE;TRUE;FALSE
+"348,HU,HUN,Hungary,""Hungarian, Magyar""";FALSE;TRUE;TRUE
+352,IS,ISL,Iceland,Icelandic;FALSE;TRUE;TRUE
+356,IN,IND,India,Indian;FALSE;TRUE;TRUE
+360,ID,IDN,Indonesia,Indonesian;;;
+"364,IR,IRN,Iran,""Iranian, Persian""";FALSE;FALSE;FALSE
+368,IQ,IRQ,Iraq,Iraqi;FALSE;FALSE;FALSE
+372,IE,IRL,Ireland,Irish;FALSE;TRUE;TRUE
+833,IM,IMN,Isle of Man,Manx;FALSE;FALSE;FALSE
+376,IL,ISR,Israel,Israeli;TRUE;FALSE;FALSE
+380,IT,ITA,Italy,Italian;FALSE;TRUE;TRUE
+388,JM,JAM,Jamaica,Jamaican;FALSE;TRUE;FALSE
+392,JP,JPN,Japan,Japanese;FALSE;TRUE;TRUE
+832,JE,JEY,Jersey,Channel Island;FALSE;FALSE;FALSE
+400,JO,JOR,Jordan,Jordanian;FALSE;TRUE;FALSE
+"398,KZ,KAZ,Kazakhstan,""Kazakhstani, Kazakh""";FALSE;TRUE;FALSE
+404,KE,KEN,Kenya,Kenyan;FALSE;TRUE;FALSE
+296,KI,KIR,Kiribati,I-Kiribati;FALSE;TRUE;FALSE
+408,KP,PRK,Korea (Democratic People's Republic of),North Korean;TRUE;FALSE;FALSE
+410,KR,KOR,Korea (Republic of),South Korean;FALSE;TRUE;TRUE
+414,KW,KWT,Kuwait,Kuwaiti;FALSE;TRUE;TRUE
+"417,KG,KGZ,Kyrgyzstan,""Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz""";FALSE;TRUE;FALSE
+"418,LA,LAO,Lao People's Democratic Republic,""Lao, Laotian""";FALSE;TRUE;FALSE
+428,LV,LVA,Latvia,Latvian;FALSE;TRUE;TRUE
+422,LB,LBN,Lebanon,Lebanese;FALSE;TRUE;FALSE
+426,LS,LSO,Lesotho,Basotho;FALSE;TRUE;FALSE
+430,LR,LBR,Liberia,Liberian;TRUE;FALSE;FALSE
+434,LY,LBY,Libya,Libyan;FALSE;FALSE;TRUE
+438,LI,LIE,Liechtenstein,Liechtenstein;FALSE;TRUE;TRUE
+440,LT,LTU,Lithuania,Lithuanian;FALSE;TRUE;TRUE
+"442,LU,LUX,Luxembourg,""Luxembourg, Luxembourgish""";FALSE;TRUE;TRUE
+"446,MO,MAC,Macao,""Macanese, Chinese""";FALSE;TRUE;FALSE
+807,MK,MKD,Macedonia (the former Yugoslav Republic of),Macedonian;FALSE;TRUE;FALSE
+450,MG,MDG,Madagascar,Malagasy;FALSE;TRUE;FALSE
+454,MW,MWI,Malawi,Malawian;FALSE;TRUE;FALSE
+458,MY,MYS,Malaysia,Malaysian;FALSE;TRUE;FALSE
+462,MV,MDV,Maldives,Maldivian;FALSE;TRUE;TRUE
+"466,ML,MLI,Mali,""Malian, Malinese""";FALSE;TRUE;FALSE
+470,MT,MLT,Malta,Maltese;FALSE;TRUE;TRUE
+584,MH,MHL,Marshall Islands,Marshallese;FALSE;TRUE;FALSE
+"474,MQ,MTQ,Martinique,""Martiniquais, Martinican""";FALSE;FALSE;FALSE
+478,MR,MRT,Mauritania,Mauritanian;FALSE;TRUE;FALSE
+480,MU,MUS,Mauritius,Mauritian;FALSE;TRUE;FALSE
+175,YT,MYT,Mayotte,Mahoran;FALSE;FALSE;FALSE
+484,MX,MEX,Mexico,Mexican;FALSE;TRUE;TRUE
+583,FM,FSM,Micronesia (Federated States of),Micronesian;FALSE;FALSE;FALSE
+498,MD,MDA,Moldova (Republic of),Moldovan;FALSE;TRUE;TRUE
+"492,MC,MCO,Monaco,""Monégasque, Monacan""";FALSE;TRUE;TRUE
+496,MN,MNG,Mongolia,Mongolian;FALSE;TRUE;FALSE
+499,ME,MNE,Montenegro,Montenegrin;FALSE;FALSE;FALSE
+500,MS,MSR,Montserrat,Montserratian;FALSE;FALSE;FALSE
+504,MA,MAR,Morocco,Moroccan;FALSE;TRUE;FALSE
+508,MZ,MOZ,Mozambique,Mozambican;FALSE;TRUE;FALSE
+104,MM,MMR,Myanmar,Burmese;FALSE;TRUE;FALSE
+516,NA,NAM,Namibia,Namibian;FALSE;TRUE;FALSE
+520,NR,NRU,Nauru,Nauruan;FALSE;TRUE;FALSE
+"524,NP,NPL,Nepal,""Nepali, Nepalese""";FALSE;TRUE;FALSE
+"528,NL,NLD,Netherlands,""Dutch, Netherlandic""";FALSE;TRUE;TRUE
+540,NC,NCL,New Caledonia,New Caledonian;FALSE;FALSE;FALSE
+"554,NZ,NZL,New Zealand,""New Zealand, NZ""";FALSE;TRUE;TRUE
+558,NI,NIC,Nicaragua,Nicaraguan;FALSE;TRUE;FALSE
+562,NE,NER,Niger,Nigerien;FALSE;FALSE;FALSE
+566,NG,NGA,Nigeria,Nigerian;FALSE;FALSE;FALSE
+570,NU,NIU,Niue,Niuean;FALSE;FALSE;FALSE
+574,NF,NFK,Norfolk Island,Norfolk Island;FALSE;FALSE;FALSE
+580,MP,MNP,Northern Mariana Islands,Northern Marianan;FALSE;FALSE;FALSE
+578,NO,NOR,Norway,Norwegian;FALSE;TRUE;TRUE
+512,OM,OMN,Oman,Omani;FALSE;TRUE;TRUE
+586,PK,PAK,Pakistan,Pakistani;FALSE;FALSE;FALSE
+585,PW,PLW,Palau,Palauan;FALSE;TRUE;FALSE
+"275,PS,PSE,""Palestine, State of"",Palestinian";FALSE;TRUE;FALSE
+591,PA,PAN,Panama,Panamanian;FALSE;TRUE;TRUE
+"598,PG,PNG,Papua New Guinea,""Papua New Guinean, Papuan""";FALSE;TRUE;TRUE
+600,PY,PRY,Paraguay,Paraguayan;FALSE;TRUE;FALSE
+604,PE,PER,Peru,Peruvian;FALSE;TRUE;FALSE
+"608,PH,PHL,Philippines,""Philippine, Filipino""";FALSE;TRUE;FALSE
+612,PN,PCN,Pitcairn,Pitcairn Island;FALSE;FALSE;FALSE
+616,PL,POL,Poland,Polish;FALSE;TRUE;TRUE
+620,PT,PRT,Portugal,Portuguese;FALSE;TRUE;TRUE
+630,PR,PRI,Puerto Rico,Puerto Rican;FALSE;TRUE;FALSE
+634,QA,QAT,Qatar,Qatari;FALSE;TRUE;TRUE
+"638,RE,REU,Réunion,""Réunionese, Réunionnais""";FALSE;FALSE;FALSE
+642,RO,ROU,Romania,Romanian;FALSE;TRUE;TRUE
+643,RU,RUS,Russian Federation,Russian;FALSE;TRUE;TRUE
+646,RW,RWA,Rwanda,Rwandan;FALSE;TRUE;FALSE
+652,BL,BLM,Saint Barthélemy,Barthélemois;FALSE;FALSE;FALSE
+"654,SH,SHN,""Saint Helena, Ascension and Tristan da Cunha"",Saint Helenian";FALSE;FALSE;FALSE
+659,KN,KNA,Saint Kitts and Nevis,Kittitian or Nevisian;FALSE;TRUE;FALSE
+662,LC,LCA,Saint Lucia,Saint Lucian;FALSE;TRUE;FALSE
+663,MF,MAF,Saint Martin (French part),Saint-Martinoise;FALSE;FALSE;FALSE
+666,PM,SPM,Saint Pierre and Miquelon,Saint-Pierrais or Miquelonnais;FALSE;FALSE;FALSE
+"670,VC,VCT,Saint Vincent and the Grenadines,""Saint Vincentian, Vincentian""";FALSE;TRUE;FALSE
+882,WS,WSM,Samoa,Samoan;FALSE;TRUE;FALSE
+674,SM,SMR,San Marino,Sammarinese;FALSE;TRUE;FALSE
+678,ST,STP,Sao Tome and Principe,São Toméan;FALSE;TRUE;FALSE
+"682,SA,SAU,Saudi Arabia,""Saudi, Saudi Arabian""";FALSE;TRUE;TRUE
+686,SN,SEN,Senegal,Senegalese;FALSE;TRUE;FALSE
+688,RS,SRB,Serbia,Serbian;FALSE;TRUE;FALSE
+690,SC,SYC,Seychelles,Seychellois;FALSE;TRUE;TRUE
+694,SL,SLE,Sierra Leone,Sierra Leonean;FALSE;FALSE;FALSE
+702,SG,SGP,Singapore,Singaporean;FALSE;TRUE;FALSE
+534,SX,SXM,Sint Maarten (Dutch part),Sint Maarten;;;
+703,SK,SVK,Slovakia,Slovak;FALSE;TRUE;TRUE
+"705,SI,SVN,Slovenia,""Slovenian, Slovene""";FALSE;TRUE;TRUE
+90,SB,SLB,Solomon Islands,Solomon Island;FALSE;TRUE;FALSE
+"706,SO,SOM,Somalia,""Somali, Somalian""";TRUE;FALSE;FALSE
+710,ZA,ZAF,South Africa,South African;FALSE;TRUE;TRUE
+239,GS,SGS,South Georgia and the South Sandwich Islands,South Georgia or South Sandwich Islands;FALSE;FALSE;FALSE
+728,SS,SSD,South Sudan,South Sudanese;;;
+724,ES,ESP,Spain,Spanish;FALSE;TRUE;TRUE
+144,LK,LKA,Sri Lanka,Sri Lankan;FALSE;TRUE;FALSE
+729,SD,SDN,Sudan,Sudanese;FALSE;FALSE;FALSE
+740,SR,SUR,Suriname,Surinamese;FALSE;TRUE;TRUE
+744,SJ,SJM,Svalbard and Jan Mayen,Svalbard;FALSE;FALSE;FALSE
+748,SZ,SWZ,Swaziland,Swazi;FALSE;FALSE;FALSE
+752,SE,SWE,Sweden,Swedish;FALSE;TRUE;TRUE
+756,CH,CHE,Switzerland,Swiss;FALSE;TRUE;TRUE
+760,SY,SYR,Syrian Arab Republic,Syrian;FALSE;FALSE;FALSE
+"158,TW,TWN,""Taiwan, Province of China"",""Chinese, Taiwanese""";FALSE;TRUE;TRUE
+762,TJ,TJK,Tajikistan,Tajikistani;FALSE;TRUE;FALSE
+"834,TZ,TZA,""Tanzania, United Republic of"",Tanzanian";FALSE;TRUE;FALSE
+764,TH,THA,Thailand,Thai;FALSE;TRUE;FALSE
+626,TL,TLS,Timor-Leste,Timorese;FALSE;TRUE;TRUE
+768,TG,TGO,Togo,Togolese;FALSE;TRUE;FALSE
+772,TK,TKL,Tokelau,Tokelauan;FALSE;FALSE;FALSE
+776,TO,TON,Tonga,Tongan;FALSE;TRUE;FALSE
+780,TT,TTO,Trinidad and Tobago,Trinidadian or Tobagonian;FALSE;TRUE;FALSE
+788,TN,TUN,Tunisia,Tunisian;FALSE;TRUE;TRUE
+792,TR,TUR,Turkey,Turkish;FALSE;TRUE;TRUE
+795,TM,TKM,Turkmenistan,Turkmen;FALSE;TRUE;FALSE
+796,TC,TCA,Turks and Caicos Islands,Turks and Caicos Island;FALSE;FALSE;FALSE
+798,TV,TUV,Tuvalu,Tuvaluan;FALSE;TRUE;FALSE
+800,UG,UGA,Uganda,Ugandan;FALSE;TRUE;FALSE
+804,UA,UKR,Ukraine,Ukrainian;FALSE;TRUE;FALSE
+"784,AE,ARE,United Arab Emirates,""Emirati, Emirian, Emiri""";FALSE;TRUE;TRUE
+"826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,""British, UK""";FALSE;TRUE;TRUE
+581,UM,UMI,United States Minor Outlying Islands,American;FALSE;FALSE;FALSE
+840,US,USA,United States of America,American;FALSE;TRUE;TRUE
+858,UY,URY,Uruguay,Uruguayan;FALSE;TRUE;FALSE
+"860,UZ,UZB,Uzbekistan,""Uzbekistani, Uzbek""";FALSE;TRUE;FALSE
+"548,VU,VUT,Vanuatu,""Ni-Vanuatu, Vanuatuan""";FALSE;TRUE;FALSE
+862,VE,VEN,Venezuela (Bolivarian Republic of),Venezuelan;FALSE;TRUE;FALSE
+704,VN,VNM,Vietnam,Vietnamese;FALSE;TRUE;FALSE
+92,VG,VGB,Virgin Islands (British),British Virgin Island;FALSE;FALSE;FALSE
+850,VI,VIR,Virgin Islands (U.S.),U.S. Virgin Island;FALSE;FALSE;FALSE
+"876,WF,WLF,Wallis and Futuna,""Wallis and Futuna, Wallisian or Futunan""";FALSE;FALSE;FALSE
+"732,EH,ESH,Western Sahara,""Sahrawi, Sahrawian, Sahraouian""";FALSE;FALSE;FALSE
+887,YE,YEM,Yemen,Yemeni;FALSE;FALSE;FALSE
+894,ZM,ZMB,Zambia,Zambian;FALSE;TRUE;FALSE
+716,ZW,ZWE,Zimbabwe,Zimbabwean;FALSE;TRUE;FALSE
