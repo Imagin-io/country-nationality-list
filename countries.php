@@ -13,8 +13,8 @@ $countries[] = array(
   "num_code" => "248",
   "alpha_2_code" => "AX",
   "alpha_3_code" => "ALA",
-  "en_short_name" => "Åland Islands",
-  "nationality" => "Åland Island",
+  "en_short_name" => "Ã…land Islands",
+  "nationality" => "Ã…land Island",
   );
 
 $countries[] = array(
@@ -286,7 +286,7 @@ $countries[] = array(
   "alpha_2_code" => "BF",
   "alpha_3_code" => "BFA",
   "en_short_name" => "Burkina Faso",
-  "nationality" => "Burkinabé",
+  "nationality" => "BurkinabÃ©",
   );
 
 $countries[] = array(
@@ -437,7 +437,7 @@ $countries[] = array(
   "num_code" => "384",
   "alpha_2_code" => "CI",
   "alpha_3_code" => "CIV",
-  "en_short_name" => "Côte d'Ivoire",
+  "en_short_name" => "CÃ´te d'Ivoire",
   "nationality" => "Ivorian",
   );
 
@@ -461,8 +461,8 @@ $countries[] = array(
   "num_code" => "531",
   "alpha_2_code" => "CW",
   "alpha_3_code" => "CUW",
-  "en_short_name" => "Curaçao",
-  "nationality" => "Curaçaoan",
+  "en_short_name" => "CuraÃ§ao",
+  "nationality" => "CuraÃ§aoan",
   );
 
 $countries[] = array(
@@ -962,7 +962,7 @@ $countries[] = array(
   );
 
 $countries[] = array(
-  "num_code" => "417",
+  "num_code" => "17",
   "alpha_2_code" => "KG",
   "alpha_3_code" => "KGZ",
   "en_short_name" => "Kyrgyzstan",
@@ -1174,7 +1174,7 @@ $countries[] = array(
   "alpha_2_code" => "MC",
   "alpha_3_code" => "MCO",
   "en_short_name" => "Monaco",
-  "nationality" => "Monégasque, Monacan",
+  "nationality" => "MonÃ©gasque, Monacan",
   );
 
 $countries[] = array(
@@ -1445,8 +1445,8 @@ $countries[] = array(
   "num_code" => "638",
   "alpha_2_code" => "RE",
   "alpha_3_code" => "REU",
-  "en_short_name" => "Réunion",
-  "nationality" => "Réunionese, Réunionnais",
+  "en_short_name" => "RÃ©union",
+  "nationality" => "RÃ©unionese, RÃ©unionnais",
   );
 
 $countries[] = array(
@@ -1477,8 +1477,8 @@ $countries[] = array(
   "num_code" => "652",
   "alpha_2_code" => "BL",
   "alpha_3_code" => "BLM",
-  "en_short_name" => "Saint Barthélemy",
-  "nationality" => "Barthélemois",
+  "en_short_name" => "Saint BarthÃ©lemy",
+  "nationality" => "BarthÃ©lemois",
   );
 
 $countries[] = array(
@@ -1550,7 +1550,7 @@ $countries[] = array(
   "alpha_2_code" => "ST",
   "alpha_3_code" => "STP",
   "en_short_name" => "Sao Tome and Principe",
-  "nationality" => "São Toméan",
+  "nationality" => "SÃ£o TomÃ©an",
   );
 
 $countries[] = array(
