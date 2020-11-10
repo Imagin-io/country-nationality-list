@@ -4,1742 +4,2240 @@
         "alpha_2_code": "AF",
         "alpha_3_code": "AFG",
         "en_short_name": "Afghanistan",
-        "nationality": "Afghan"
+        "nationality": "Afghan",
+        "id_short_name": "Afghanistan",
+        "id_nationality": "Orang Afghanistan"
     },
     {
         "num_code": "248",
         "alpha_2_code": "AX",
         "alpha_3_code": "ALA",
-        "en_short_name": "\u00c5land Islands",
-        "nationality": "\u00c5land Island"
+        "en_short_name": "\u00c3\u2026land Islands",
+        "nationality": "\u00c3\u2026land Island",
+        "id_short_name": "Kepulauan \u0081land",
+        "id_nationality": "Orang Kepulauan \u0081land"
     },
     {
         "num_code": "8",
         "alpha_2_code": "AL",
         "alpha_3_code": "ALB",
         "en_short_name": "Albania",
-        "nationality": "Albanian"
+        "nationality": "Albanian",
+        "id_short_name": "Albania",
+        "id_nationality": "Orang Albania"
     },
     {
         "num_code": "12",
         "alpha_2_code": "DZ",
         "alpha_3_code": "DZA",
         "en_short_name": "Algeria",
-        "nationality": "Algerian"
+        "nationality": "Algerian",
+        "id_short_name": "Algeria",
+        "id_nationality": "Orang Algeria"
     },
     {
         "num_code": "16",
         "alpha_2_code": "AS",
         "alpha_3_code": "ASM",
         "en_short_name": "American Samoa",
-        "nationality": "American Samoan"
+        "nationality": "American Samoan",
+        "id_short_name": "Samoa Amerika",
+        "id_nationality": "Orang Samoa Amerika"
     },
     {
         "num_code": "20",
         "alpha_2_code": "AD",
         "alpha_3_code": "AND",
         "en_short_name": "Andorra",
-        "nationality": "Andorran"
+        "nationality": "Andorran",
+        "id_short_name": "Andorra",
+        "id_nationality": "Orang Andorra"
     },
     {
         "num_code": "24",
         "alpha_2_code": "AO",
         "alpha_3_code": "AGO",
         "en_short_name": "Angola",
-        "nationality": "Angolan"
+        "nationality": "Angolan",
+        "id_short_name": "Angola",
+        "id_nationality": "Orang Angola"
     },
     {
         "num_code": "660",
         "alpha_2_code": "AI",
         "alpha_3_code": "AIA",
         "en_short_name": "Anguilla",
-        "nationality": "Anguillan"
+        "nationality": "Anguillan",
+        "id_short_name": "Anguilla",
+        "id_nationality": "Orang Anguilla"
     },
     {
         "num_code": "10",
         "alpha_2_code": "AQ",
         "alpha_3_code": "ATA",
         "en_short_name": "Antarctica",
-        "nationality": "Antarctic"
+        "nationality": "Antarctic",
+        "id_short_name": "Antarktika",
+        "id_nationality": "Orang Antarktika"
     },
     {
         "num_code": "28",
         "alpha_2_code": "AG",
         "alpha_3_code": "ATG",
         "en_short_name": "Antigua and Barbuda",
-        "nationality": "Antiguan or Barbudan"
+        "nationality": "Antiguan or Barbudan",
+        "id_short_name": "Antigua dan Barbuda",
+        "id_nationality": "Orang Antigua atau Orang Barbuda"
     },
     {
         "num_code": "32",
         "alpha_2_code": "AR",
         "alpha_3_code": "ARG",
         "en_short_name": "Argentina",
-        "nationality": "Argentine"
+        "nationality": "Argentine",
+        "id_short_name": "Argentina",
+        "id_nationality": "Orang Argentina"
     },
     {
         "num_code": "51",
         "alpha_2_code": "AM",
         "alpha_3_code": "ARM",
         "en_short_name": "Armenia",
-        "nationality": "Armenian"
+        "nationality": "Armenian",
+        "id_short_name": "Armenia",
+        "id_nationality": "Orang Armenia"
     },
     {
         "num_code": "533",
         "alpha_2_code": "AW",
         "alpha_3_code": "ABW",
         "en_short_name": "Aruba",
-        "nationality": "Aruban"
+        "nationality": "Aruban",
+        "id_short_name": "Aruba",
+        "id_nationality": "Orang Aruba"
     },
     {
         "num_code": "36",
         "alpha_2_code": "AU",
         "alpha_3_code": "AUS",
         "en_short_name": "Australia",
-        "nationality": "Australian"
+        "nationality": "Australian",
+        "id_short_name": "Australia",
+        "id_nationality": "Orang Australia"
     },
     {
         "num_code": "40",
         "alpha_2_code": "AT",
         "alpha_3_code": "AUT",
         "en_short_name": "Austria",
-        "nationality": "Austrian"
+        "nationality": "Austrian",
+        "id_short_name": "Austria",
+        "id_nationality": "Orang Austria"
     },
     {
         "num_code": "31",
         "alpha_2_code": "AZ",
         "alpha_3_code": "AZE",
         "en_short_name": "Azerbaijan",
-        "nationality": "Azerbaijani, Azeri"
+        "nationality": "Azerbaijani, Azeri",
+        "id_short_name": "Azerbaijan",
+        "id_nationality": "Orang Azerbaijan"
     },
     {
         "num_code": "44",
         "alpha_2_code": "BS",
         "alpha_3_code": "BHS",
         "en_short_name": "Bahamas",
-        "nationality": "Bahamian"
+        "nationality": "Bahamian",
+        "id_short_name": "Bahama",
+        "id_nationality": "Orang Bahama"
     },
     {
         "num_code": "48",
         "alpha_2_code": "BH",
         "alpha_3_code": "BHR",
         "en_short_name": "Bahrain",
-        "nationality": "Bahraini"
+        "nationality": "Bahraini",
+        "id_short_name": "Bahrain",
+        "id_nationality": "Orang Bahrain"
     },
     {
         "num_code": "50",
         "alpha_2_code": "BD",
         "alpha_3_code": "BGD",
         "en_short_name": "Bangladesh",
-        "nationality": "Bangladeshi"
+        "nationality": "Bangladeshi",
+        "id_short_name": "Bangladesh",
+        "id_nationality": "Orang Bangladesh"
     },
     {
         "num_code": "52",
         "alpha_2_code": "BB",
         "alpha_3_code": "BRB",
         "en_short_name": "Barbados",
-        "nationality": "Barbadian"
+        "nationality": "Barbadian",
+        "id_short_name": "Barbados",
+        "id_nationality": "Orang Barbados"
     },
     {
         "num_code": "112",
         "alpha_2_code": "BY",
         "alpha_3_code": "BLR",
         "en_short_name": "Belarus",
-        "nationality": "Belarusian"
+        "nationality": "Belarusian",
+        "id_short_name": "Belarusia",
+        "id_nationality": "Orang Belarus"
     },
     {
         "num_code": "56",
         "alpha_2_code": "BE",
         "alpha_3_code": "BEL",
         "en_short_name": "Belgium",
-        "nationality": "Belgian"
+        "nationality": "Belgian",
+        "id_short_name": "Belgia",
+        "id_nationality": "Orang Belgia"
     },
     {
         "num_code": "84",
         "alpha_2_code": "BZ",
         "alpha_3_code": "BLZ",
         "en_short_name": "Belize",
-        "nationality": "Belizean"
+        "nationality": "Belizean",
+        "id_short_name": "Belize",
+        "id_nationality": "Orang Belize"
     },
     {
         "num_code": "204",
         "alpha_2_code": "BJ",
         "alpha_3_code": "BEN",
         "en_short_name": "Benin",
-        "nationality": "Beninese, Beninois"
+        "nationality": "Beninese, Beninois",
+        "id_short_name": "Benin",
+        "id_nationality": "Orang Benin"
     },
     {
         "num_code": "60",
         "alpha_2_code": "BM",
         "alpha_3_code": "BMU",
         "en_short_name": "Bermuda",
-        "nationality": "Bermudian, Bermudan"
+        "nationality": "Bermudian, Bermudan",
+        "id_short_name": "Bermuda",
+        "id_nationality": "Orang Bermuda"
     },
     {
         "num_code": "64",
         "alpha_2_code": "BT",
         "alpha_3_code": "BTN",
         "en_short_name": "Bhutan",
-        "nationality": "Bhutanese"
+        "nationality": "Bhutanese",
+        "id_short_name": "Bhutan",
+        "id_nationality": "Orang Bhutan"
     },
     {
         "num_code": "68",
         "alpha_2_code": "BO",
         "alpha_3_code": "BOL",
         "en_short_name": "Bolivia (Plurinational State of)",
-        "nationality": "Bolivian"
+        "nationality": "Bolivian",
+        "id_short_name": "Bolivia",
+        "id_nationality": "Orang Bolivia"
     },
     {
         "num_code": "535",
         "alpha_2_code": "BQ",
         "alpha_3_code": "BES",
         "en_short_name": "Bonaire, Sint Eustatius and Saba",
-        "nationality": "Bonaire"
+        "nationality": "Bonaire",
+        "id_short_name": "Bonaire",
+        "id_nationality": "Orang Bonaire"
     },
     {
         "num_code": "70",
         "alpha_2_code": "BA",
         "alpha_3_code": "BIH",
         "en_short_name": "Bosnia and Herzegovina",
-        "nationality": "Bosnian or Herzegovinian"
+        "nationality": "Bosnian or Herzegovinian",
+        "id_short_name": "Bosnia dan Herzegovina",
+        "id_nationality": "Orang Bosnia atau Orang Herzegovina"
     },
     {
         "num_code": "72",
         "alpha_2_code": "BW",
         "alpha_3_code": "BWA",
         "en_short_name": "Botswana",
-        "nationality": "Motswana, Botswanan"
+        "nationality": "Motswana, Botswanan",
+        "id_short_name": "Botswana",
+        "id_nationality": "Orang Botswana"
     },
     {
         "num_code": "74",
         "alpha_2_code": "BV",
         "alpha_3_code": "BVT",
         "en_short_name": "Bouvet Island",
-        "nationality": "Bouvet Island"
+        "nationality": "Bouvet Island",
+        "id_short_name": "Pulau Bouvet",
+        "id_nationality": "Orang Pulau Bouvet"
     },
     {
         "num_code": "76",
         "alpha_2_code": "BR",
         "alpha_3_code": "BRA",
         "en_short_name": "Brazil",
-        "nationality": "Brazilian"
+        "nationality": "Brazilian",
+        "id_short_name": "Brazil",
+        "id_nationality": "Orang Brazil"
     },
     {
         "num_code": "86",
         "alpha_2_code": "IO",
         "alpha_3_code": "IOT",
         "en_short_name": "British Indian Ocean Territory",
-        "nationality": "BIOT"
+        "nationality": "BIOT",
+        "id_short_name": "Wilayah Samudra Hindia Britania",
+        "id_nationality": "Orang Wilayah Samudra Hindia Britania"
     },
     {
         "num_code": "96",
         "alpha_2_code": "BN",
         "alpha_3_code": "BRN",
         "en_short_name": "Brunei Darussalam",
-        "nationality": "Bruneian"
+        "nationality": "Bruneian",
+        "id_short_name": "Brunei Darussalam",
+        "id_nationality": "Orang Brunei"
     },
     {
         "num_code": "100",
         "alpha_2_code": "BG",
         "alpha_3_code": "BGR",
         "en_short_name": "Bulgaria",
-        "nationality": "Bulgarian"
+        "nationality": "Bulgarian",
+        "id_short_name": "Bulgaria",
+        "id_nationality": "Orang Bulgaria"
     },
     {
         "num_code": "854",
         "alpha_2_code": "BF",
         "alpha_3_code": "BFA",
         "en_short_name": "Burkina Faso",
-        "nationality": "Burkinab\u00e9"
+        "nationality": "Burkinab\u00c3\u00a9",
+        "id_short_name": "Burkina Faso",
+        "id_nationality": "Orang Burkina"
     },
     {
         "num_code": "108",
         "alpha_2_code": "BI",
         "alpha_3_code": "BDI",
         "en_short_name": "Burundi",
-        "nationality": "Burundian"
+        "nationality": "Burundian",
+        "id_short_name": "Burundi",
+        "id_nationality": "Orang Burundi"
     },
     {
         "num_code": "132",
         "alpha_2_code": "CV",
         "alpha_3_code": "CPV",
         "en_short_name": "Cabo Verde",
-        "nationality": "Cabo Verdean"
+        "nationality": "Cabo Verdean",
+        "id_short_name": "Tanjung Verde",
+        "id_nationality": "Orang Tanjung Verde"
     },
     {
         "num_code": "116",
         "alpha_2_code": "KH",
         "alpha_3_code": "KHM",
         "en_short_name": "Cambodia",
-        "nationality": "Cambodian"
+        "nationality": "Cambodian",
+        "id_short_name": "Kamboja",
+        "id_nationality": "Orang Kamboja"
     },
     {
         "num_code": "120",
         "alpha_2_code": "CM",
         "alpha_3_code": "CMR",
         "en_short_name": "Cameroon",
-        "nationality": "Cameroonian"
+        "nationality": "Cameroonian",
+        "id_short_name": "Kamerun",
+        "id_nationality": "Orang Kamerun"
     },
     {
         "num_code": "124",
         "alpha_2_code": "CA",
         "alpha_3_code": "CAN",
         "en_short_name": "Canada",
-        "nationality": "Canadian"
+        "nationality": "Canadian",
+        "id_short_name": "Kanada",
+        "id_nationality": "Orang Kanada"
     },
     {
         "num_code": "136",
         "alpha_2_code": "KY",
         "alpha_3_code": "CYM",
         "en_short_name": "Cayman Islands",
-        "nationality": "Caymanian"
+        "nationality": "Caymanian",
+        "id_short_name": "Kepulauan Cayman",
+        "id_nationality": "Orang Cayman"
     },
     {
         "num_code": "140",
         "alpha_2_code": "CF",
         "alpha_3_code": "CAF",
         "en_short_name": "Central African Republic",
-        "nationality": "Central African"
+        "nationality": "Central African",
+        "id_short_name": "Afrika Tengah",
+        "id_nationality": "Orang Afrika Tengah"
     },
     {
         "num_code": "148",
         "alpha_2_code": "TD",
         "alpha_3_code": "TCD",
         "en_short_name": "Chad",
-        "nationality": "Chadian"
+        "nationality": "Chadian",
+        "id_short_name": "Chad",
+        "id_nationality": "Orang Chad"
     },
     {
         "num_code": "152",
         "alpha_2_code": "CL",
         "alpha_3_code": "CHL",
         "en_short_name": "Chile",
-        "nationality": "Chilean"
+        "nationality": "Chilean",
+        "id_short_name": "Chili",
+        "id_nationality": "Orang Chili"
     },
     {
         "num_code": "156",
         "alpha_2_code": "CN",
         "alpha_3_code": "CHN",
         "en_short_name": "China",
-        "nationality": "Chinese"
+        "nationality": "Chinese",
+        "id_short_name": "Cina",
+        "id_nationality": "Orang Cina"
     },
     {
         "num_code": "162",
         "alpha_2_code": "CX",
         "alpha_3_code": "CXR",
         "en_short_name": "Christmas Island",
-        "nationality": "Christmas Island"
+        "nationality": "Christmas Island",
+        "id_short_name": "Pulau Natal",
+        "id_nationality": "Orang Pulau Natal"
     },
     {
         "num_code": "166",
         "alpha_2_code": "CC",
         "alpha_3_code": "CCK",
         "en_short_name": "Cocos (Keeling) Islands",
-        "nationality": "Cocos Island"
+        "nationality": "Cocos Island",
+        "id_short_name": "Kepulauan Cocos (Keeling)",
+        "id_nationality": "Orang Kepulauan Cocos"
     },
     {
         "num_code": "170",
         "alpha_2_code": "CO",
         "alpha_3_code": "COL",
         "en_short_name": "Colombia",
-        "nationality": "Colombian"
+        "nationality": "Colombian",
+        "id_short_name": "Kolombia",
+        "id_nationality": "Orang Kolombia"
     },
     {
         "num_code": "174",
         "alpha_2_code": "KM",
         "alpha_3_code": "COM",
         "en_short_name": "Comoros",
-        "nationality": "Comoran, Comorian"
+        "nationality": "Comoran, Comorian",
+        "id_short_name": "Komoro",
+        "id_nationality": "Orang Komoro"
     },
     {
         "num_code": "178",
         "alpha_2_code": "CG",
         "alpha_3_code": "COG",
         "en_short_name": "Congo (Republic of the)",
-        "nationality": "Congolese"
+        "nationality": "Congolese",
+        "id_short_name": "Republik Kongo",
+        "id_nationality": "Orang Kongo"
     },
     {
         "num_code": "180",
         "alpha_2_code": "CD",
         "alpha_3_code": "COD",
         "en_short_name": "Congo (Democratic Republic of the)",
-        "nationality": "Congolese"
+        "nationality": "Congolese",
+        "id_short_name": "Republik Demokratik Kongo",
+        "id_nationality": "Orang Kongo"
     },
     {
         "num_code": "184",
         "alpha_2_code": "CK",
         "alpha_3_code": "COK",
         "en_short_name": "Cook Islands",
-        "nationality": "Cook Island"
+        "nationality": "Cook Island",
+        "id_short_name": "Kepulauan Cook",
+        "id_nationality": "Orang Pulau Cook"
     },
     {
         "num_code": "188",
         "alpha_2_code": "CR",
         "alpha_3_code": "CRI",
         "en_short_name": "Costa Rica",
-        "nationality": "Costa Rican"
+        "nationality": "Costa Rican",
+        "id_short_name": "Kosta Rika",
+        "id_nationality": "Orang Kosta Rika"
     },
     {
         "num_code": "384",
         "alpha_2_code": "CI",
         "alpha_3_code": "CIV",
-        "en_short_name": "C\u00f4te d'Ivoire",
-        "nationality": "Ivorian"
+        "en_short_name": "C\u00c3\u00b4te d'Ivoire",
+        "nationality": "Ivorian",
+        "id_short_name": "Pantai Gading",
+        "id_nationality": "Orang Pantai Gading"
     },
     {
         "num_code": "191",
         "alpha_2_code": "HR",
         "alpha_3_code": "HRV",
         "en_short_name": "Croatia",
-        "nationality": "Croatian"
+        "nationality": "Croatian",
+        "id_short_name": "Kroasia",
+        "id_nationality": "Orang Kroasia"
     },
     {
         "num_code": "192",
         "alpha_2_code": "CU",
         "alpha_3_code": "CUB",
         "en_short_name": "Cuba",
-        "nationality": "Cuban"
+        "nationality": "Cuban",
+        "id_short_name": "Kuba",
+        "id_nationality": "Orang Kuba"
     },
     {
         "num_code": "531",
         "alpha_2_code": "CW",
         "alpha_3_code": "CUW",
-        "en_short_name": "Cura\u00e7ao",
-        "nationality": "Cura\u00e7aoan"
+        "en_short_name": "Cura\u00c3\u00a7ao",
+        "nationality": "Cura\u00c3\u00a7aoan",
+        "id_short_name": "Kurasao",
+        "id_nationality": "Orang Kurasao"
     },
     {
         "num_code": "196",
         "alpha_2_code": "CY",
         "alpha_3_code": "CYP",
         "en_short_name": "Cyprus",
-        "nationality": "Cypriot"
+        "nationality": "Cypriot",
+        "id_short_name": "Siprus",
+        "id_nationality": "Orang Siprus"
     },
     {
         "num_code": "203",
         "alpha_2_code": "CZ",
         "alpha_3_code": "CZE",
         "en_short_name": "Czech Republic",
-        "nationality": "Czech"
+        "nationality": "Czech",
+        "id_short_name": "Ceko",
+        "id_nationality": "Orang Ceko"
     },
     {
         "num_code": "208",
         "alpha_2_code": "DK",
         "alpha_3_code": "DNK",
         "en_short_name": "Denmark",
-        "nationality": "Danish"
+        "nationality": "Danish",
+        "id_short_name": "Denmark",
+        "id_nationality": "Orang Denmark"
     },
     {
         "num_code": "262",
         "alpha_2_code": "DJ",
         "alpha_3_code": "DJI",
         "en_short_name": "Djibouti",
-        "nationality": "Djiboutian"
+        "nationality": "Djiboutian",
+        "id_short_name": "Djibouti",
+        "id_nationality": "Orang Djibouti"
     },
     {
         "num_code": "212",
         "alpha_2_code": "DM",
         "alpha_3_code": "DMA",
         "en_short_name": "Dominica",
-        "nationality": "Dominican"
+        "nationality": "Dominican",
+        "id_short_name": "Dominika",
+        "id_nationality": "Orang Dominika"
     },
     {
         "num_code": "214",
         "alpha_2_code": "DO",
         "alpha_3_code": "DOM",
         "en_short_name": "Dominican Republic",
-        "nationality": "Dominican"
+        "nationality": "Dominican",
+        "id_short_name": "Republik Dominika",
+        "id_nationality": "Orang Dominika"
     },
     {
         "num_code": "218",
         "alpha_2_code": "EC",
         "alpha_3_code": "ECU",
         "en_short_name": "Ecuador",
-        "nationality": "Ecuadorian"
+        "nationality": "Ecuadorian",
+        "id_short_name": "Ekuador",
+        "id_nationality": "Orang Ekuador"
     },
     {
         "num_code": "818",
         "alpha_2_code": "EG",
         "alpha_3_code": "EGY",
         "en_short_name": "Egypt",
-        "nationality": "Egyptian"
+        "nationality": "Egyptian",
+        "id_short_name": "Mesir",
+        "id_nationality": "Orang Mesir"
     },
     {
         "num_code": "222",
         "alpha_2_code": "SV",
         "alpha_3_code": "SLV",
         "en_short_name": "El Salvador",
-        "nationality": "Salvadoran"
+        "nationality": "Salvadoran",
+        "id_short_name": "El Salvador",
+        "id_nationality": "Orang Salvador"
     },
     {
         "num_code": "226",
         "alpha_2_code": "GQ",
         "alpha_3_code": "GNQ",
         "en_short_name": "Equatorial Guinea",
-        "nationality": "Equatorial Guinean, Equatoguinean"
+        "nationality": "Equatorial Guinean, Equatoguinean",
+        "id_short_name": "Guinea Khatulistiwa",
+        "id_nationality": "Orang Guinea Khatuslistiwa"
     },
     {
         "num_code": "232",
         "alpha_2_code": "ER",
         "alpha_3_code": "ERI",
         "en_short_name": "Eritrea",
-        "nationality": "Eritrean"
+        "nationality": "Eritrean",
+        "id_short_name": "Eritrea",
+        "id_nationality": "Orang Eritrea"
     },
     {
         "num_code": "233",
         "alpha_2_code": "EE",
         "alpha_3_code": "EST",
         "en_short_name": "Estonia",
-        "nationality": "Estonian"
+        "nationality": "Estonian",
+        "id_short_name": "Estonia",
+        "id_nationality": "Orang Estonia"
     },
     {
         "num_code": "231",
         "alpha_2_code": "ET",
         "alpha_3_code": "ETH",
         "en_short_name": "Ethiopia",
-        "nationality": "Ethiopian"
+        "nationality": "Ethiopian",
+        "id_short_name": "Etiopia",
+        "id_nationality": "Orang Etiopia"
     },
     {
         "num_code": "238",
         "alpha_2_code": "FK",
         "alpha_3_code": "FLK",
         "en_short_name": "Falkland Islands (Malvinas)",
-        "nationality": "Falkland Island"
+        "nationality": "Falkland Island",
+        "id_short_name": "Kepulauan Falkland",
+        "id_nationality": "Orang Pulau Falkland"
     },
     {
         "num_code": "234",
         "alpha_2_code": "FO",
         "alpha_3_code": "FRO",
         "en_short_name": "Faroe Islands",
-        "nationality": "Faroese"
+        "nationality": "Faroese",
+        "id_short_name": "Kepulauan Faroe",
+        "id_nationality": "Orang Faroe"
     },
     {
         "num_code": "242",
         "alpha_2_code": "FJ",
         "alpha_3_code": "FJI",
         "en_short_name": "Fiji",
-        "nationality": "Fijian"
+        "nationality": "Fijian",
+        "id_short_name": "Fiji",
+        "id_nationality": "Orang Fiji"
     },
     {
         "num_code": "246",
         "alpha_2_code": "FI",
         "alpha_3_code": "FIN",
         "en_short_name": "Finland",
-        "nationality": "Finnish"
+        "nationality": "Finnish",
+        "id_short_name": "Finlandia",
+        "id_nationality": "Orang Finlandia"
     },
     {
         "num_code": "250",
         "alpha_2_code": "FR",
         "alpha_3_code": "FRA",
         "en_short_name": "France",
-        "nationality": "French"
+        "nationality": "French",
+        "id_short_name": "Prancis",
+        "id_nationality": "Orang Prancis"
     },
     {
         "num_code": "254",
         "alpha_2_code": "GF",
         "alpha_3_code": "GUF",
         "en_short_name": "French Guiana",
-        "nationality": "French Guianese"
+        "nationality": "French Guianese",
+        "id_short_name": "Guyana Prancis",
+        "id_nationality": "Orang Guyana Prancis"
     },
     {
         "num_code": "258",
         "alpha_2_code": "PF",
         "alpha_3_code": "PYF",
         "en_short_name": "French Polynesia",
-        "nationality": "French Polynesian"
+        "nationality": "French Polynesian",
+        "id_short_name": "Polinesia Prancis",
+        "id_nationality": "Orang Polinesia Prancis"
     },
     {
         "num_code": "260",
         "alpha_2_code": "TF",
         "alpha_3_code": "ATF",
         "en_short_name": "French Southern Territories",
-        "nationality": "French Southern Territories"
+        "nationality": "French Southern Territories",
+        "id_short_name": "Teritori Prancis Selatan",
+        "id_nationality": "Orang Teritori Prancis Selatan"
     },
     {
         "num_code": "266",
         "alpha_2_code": "GA",
         "alpha_3_code": "GAB",
         "en_short_name": "Gabon",
-        "nationality": "Gabonese"
+        "nationality": "Gabonese",
+        "id_short_name": "Gabon",
+        "id_nationality": "Orang Gabon"
     },
     {
         "num_code": "270",
         "alpha_2_code": "GM",
         "alpha_3_code": "GMB",
         "en_short_name": "Gambia",
-        "nationality": "Gambian"
+        "nationality": "Gambian",
+        "id_short_name": "Gambia",
+        "id_nationality": "Orang Gambia"
     },
     {
         "num_code": "268",
         "alpha_2_code": "GE",
         "alpha_3_code": "GEO",
         "en_short_name": "Georgia",
-        "nationality": "Georgian"
+        "nationality": "Georgian",
+        "id_short_name": "Georgia",
+        "id_nationality": "Orang Georgia"
     },
     {
         "num_code": "276",
         "alpha_2_code": "DE",
         "alpha_3_code": "DEU",
         "en_short_name": "Germany",
-        "nationality": "German"
+        "nationality": "German",
+        "id_short_name": "Jerman",
+        "id_nationality": "Orang Jerman"
     },
     {
         "num_code": "288",
         "alpha_2_code": "GH",
         "alpha_3_code": "GHA",
         "en_short_name": "Ghana",
-        "nationality": "Ghanaian"
+        "nationality": "Ghanaian",
+        "id_short_name": "Ghana",
+        "id_nationality": "Orang Ghana"
     },
     {
         "num_code": "292",
         "alpha_2_code": "GI",
         "alpha_3_code": "GIB",
         "en_short_name": "Gibraltar",
-        "nationality": "Gibraltar"
+        "nationality": "Gibraltar",
+        "id_short_name": "Gibraltar",
+        "id_nationality": "Orang Gibraltar"
     },
     {
         "num_code": "300",
         "alpha_2_code": "GR",
         "alpha_3_code": "GRC",
         "en_short_name": "Greece",
-        "nationality": "Greek, Hellenic"
+        "nationality": "Greek, Hellenic",
+        "id_short_name": "Yunani",
+        "id_nationality": "Orang Yunani"
     },
     {
         "num_code": "304",
         "alpha_2_code": "GL",
         "alpha_3_code": "GRL",
         "en_short_name": "Greenland",
-        "nationality": "Greenlandic"
+        "nationality": "Greenlandic",
+        "id_short_name": "Greenland",
+        "id_nationality": "Orang Greenland"
     },
     {
         "num_code": "308",
         "alpha_2_code": "GD",
         "alpha_3_code": "GRD",
         "en_short_name": "Grenada",
-        "nationality": "Grenadian"
+        "nationality": "Grenadian",
+        "id_short_name": "Grenada",
+        "id_nationality": "Orang Grenada"
     },
     {
         "num_code": "312",
         "alpha_2_code": "GP",
         "alpha_3_code": "GLP",
         "en_short_name": "Guadeloupe",
-        "nationality": "Guadeloupe"
+        "nationality": "Guadeloupe",
+        "id_short_name": "Guadeloupe",
+        "id_nationality": "Orang Guadeloupe"
     },
     {
         "num_code": "316",
         "alpha_2_code": "GU",
         "alpha_3_code": "GUM",
         "en_short_name": "Guam",
-        "nationality": "Guamanian, Guambat"
+        "nationality": "Guamanian, Guambat",
+        "id_short_name": "Guam",
+        "id_nationality": "Orang Guam"
     },
     {
         "num_code": "320",
         "alpha_2_code": "GT",
         "alpha_3_code": "GTM",
         "en_short_name": "Guatemala",
-        "nationality": "Guatemalan"
+        "nationality": "Guatemalan",
+        "id_short_name": "Guatemala",
+        "id_nationality": "Orang Guatemala"
     },
     {
         "num_code": "831",
         "alpha_2_code": "GG",
         "alpha_3_code": "GGY",
         "en_short_name": "Guernsey",
-        "nationality": "Channel Island"
+        "nationality": "Channel Island",
+        "id_short_name": "Guernsey",
+        "id_nationality": "Orang Guernsey"
     },
     {
         "num_code": "324",
         "alpha_2_code": "GN",
         "alpha_3_code": "GIN",
         "en_short_name": "Guinea",
-        "nationality": "Guinean"
+        "nationality": "Guinean",
+        "id_short_name": "Guinea",
+        "id_nationality": "Orang Guinea"
     },
     {
         "num_code": "624",
         "alpha_2_code": "GW",
         "alpha_3_code": "GNB",
         "en_short_name": "Guinea-Bissau",
-        "nationality": "Bissau-Guinean"
+        "nationality": "Bissau-Guinean",
+        "id_short_name": "Guinea-Bissau",
+        "id_nationality": "Orang Guinea-Bissau"
     },
     {
         "num_code": "328",
         "alpha_2_code": "GY",
         "alpha_3_code": "GUY",
         "en_short_name": "Guyana",
-        "nationality": "Guyanese"
+        "nationality": "Guyanese",
+        "id_short_name": "Guayana",
+        "id_nationality": "Orang Guyana"
     },
     {
         "num_code": "332",
         "alpha_2_code": "HT",
         "alpha_3_code": "HTI",
         "en_short_name": "Haiti",
-        "nationality": "Haitian"
+        "nationality": "Haitian",
+        "id_short_name": "Haiti",
+        "id_nationality": "Orang Haiti"
     },
     {
         "num_code": "334",
         "alpha_2_code": "HM",
         "alpha_3_code": "HMD",
         "en_short_name": "Heard Island and McDonald Islands",
-        "nationality": "Heard Island or McDonald Islands"
+        "nationality": "Heard Island or McDonald Islands",
+        "id_short_name": "Pulau Heard dan kepulauan McDonald",
+        "id_nationality": "Orang Pulau Heard dan kepulauan McDonald"
     },
     {
         "num_code": "336",
         "alpha_2_code": "VA",
         "alpha_3_code": "VAT",
         "en_short_name": "Vatican City State",
-        "nationality": "Vatican"
+        "nationality": "Vatican",
+        "id_short_name": "Vatikan",
+        "id_nationality": "Vatikan"
     },
     {
         "num_code": "340",
         "alpha_2_code": "HN",
         "alpha_3_code": "HND",
         "en_short_name": "Honduras",
-        "nationality": "Honduran"
+        "nationality": "Honduran",
+        "id_short_name": "Honduras",
+        "id_nationality": "Orang Honduras"
     },
     {
         "num_code": "344",
         "alpha_2_code": "HK",
         "alpha_3_code": "HKG",
         "en_short_name": "Hong Kong",
-        "nationality": "Hong Kong, Hong Kongese"
+        "nationality": "Hong Kong, Hong Kongese",
+        "id_short_name": "Hong Kong",
+        "id_nationality": "Orang Hong Kong"
     },
     {
         "num_code": "348",
         "alpha_2_code": "HU",
         "alpha_3_code": "HUN",
         "en_short_name": "Hungary",
-        "nationality": "Hungarian, Magyar"
+        "nationality": "Hungarian, Magyar",
+        "id_short_name": "Hongaria",
+        "id_nationality": "Orang Hongaria"
     },
     {
         "num_code": "352",
         "alpha_2_code": "IS",
         "alpha_3_code": "ISL",
         "en_short_name": "Iceland",
-        "nationality": "Icelandic"
+        "nationality": "Icelandic",
+        "id_short_name": "Islandia",
+        "id_nationality": "Orand Islandia"
     },
     {
         "num_code": "356",
         "alpha_2_code": "IN",
         "alpha_3_code": "IND",
         "en_short_name": "India",
-        "nationality": "Indian"
+        "nationality": "Indian",
+        "id_short_name": "India",
+        "id_nationality": "Orang India"
     },
     {
         "num_code": "360",
         "alpha_2_code": "ID",
         "alpha_3_code": "IDN",
         "en_short_name": "Indonesia",
-        "nationality": "Indonesian"
+        "nationality": "Indonesian",
+        "id_short_name": "Indonesia",
+        "id_nationality": "Orang Indonesia"
     },
     {
         "num_code": "364",
         "alpha_2_code": "IR",
         "alpha_3_code": "IRN",
         "en_short_name": "Iran",
-        "nationality": "Iranian, Persian"
+        "nationality": "Iranian, Persian",
+        "id_short_name": "Iran",
+        "id_nationality": "Orang Iran"
     },
     {
         "num_code": "368",
         "alpha_2_code": "IQ",
         "alpha_3_code": "IRQ",
         "en_short_name": "Iraq",
-        "nationality": "Iraqi"
+        "nationality": "Iraqi",
+        "id_short_name": "Iraq",
+        "id_nationality": "Orang Iraq"
     },
     {
         "num_code": "372",
         "alpha_2_code": "IE",
         "alpha_3_code": "IRL",
         "en_short_name": "Ireland",
-        "nationality": "Irish"
+        "nationality": "Irish",
+        "id_short_name": "Irlandia",
+        "id_nationality": "Orang Irlandia"
     },
     {
         "num_code": "833",
         "alpha_2_code": "IM",
         "alpha_3_code": "IMN",
         "en_short_name": "Isle of Man",
-        "nationality": "Manx"
+        "nationality": "Manx",
+        "id_short_name": "Pulau Man",
+        "id_nationality": "Orang Man"
     },
     {
         "num_code": "376",
         "alpha_2_code": "IL",
         "alpha_3_code": "ISR",
         "en_short_name": "Israel",
-        "nationality": "Israeli"
+        "nationality": "Israeli",
+        "id_short_name": "Israel",
+        "id_nationality": "Orang Israel"
     },
     {
         "num_code": "380",
         "alpha_2_code": "IT",
         "alpha_3_code": "ITA",
         "en_short_name": "Italy",
-        "nationality": "Italian"
+        "nationality": "Italian",
+        "id_short_name": "Italia",
+        "id_nationality": "Orang Itali"
     },
     {
         "num_code": "388",
         "alpha_2_code": "JM",
         "alpha_3_code": "JAM",
         "en_short_name": "Jamaica",
-        "nationality": "Jamaican"
+        "nationality": "Jamaican",
+        "id_short_name": "Jamaika",
+        "id_nationality": "Orang Jamaika"
     },
     {
         "num_code": "392",
         "alpha_2_code": "JP",
         "alpha_3_code": "JPN",
         "en_short_name": "Japan",
-        "nationality": "Japanese"
+        "nationality": "Japanese",
+        "id_short_name": "Jepang",
+        "id_nationality": "Orang Jepang"
     },
     {
         "num_code": "832",
         "alpha_2_code": "JE",
         "alpha_3_code": "JEY",
         "en_short_name": "Jersey",
-        "nationality": "Channel Island"
+        "nationality": "Channel Island",
+        "id_short_name": "Jersey",
+        "id_nationality": "Orang Pulau Channel"
     },
     {
         "num_code": "400",
         "alpha_2_code": "JO",
         "alpha_3_code": "JOR",
         "en_short_name": "Jordan",
-        "nationality": "Jordanian"
+        "nationality": "Jordanian",
+        "id_short_name": "Jordan",
+        "id_nationality": "Orang Jordan"
     },
     {
         "num_code": "398",
         "alpha_2_code": "KZ",
         "alpha_3_code": "KAZ",
         "en_short_name": "Kazakhstan",
-        "nationality": "Kazakhstani, Kazakh"
+        "nationality": "Kazakhstani, Kazakh",
+        "id_short_name": "Kazakhstan",
+        "id_nationality": "Orang Kazakhstan"
     },
     {
         "num_code": "404",
         "alpha_2_code": "KE",
         "alpha_3_code": "KEN",
         "en_short_name": "Kenya",
-        "nationality": "Kenyan"
+        "nationality": "Kenyan",
+        "id_short_name": "Kenya",
+        "id_nationality": "Orang Kenya"
     },
     {
         "num_code": "296",
         "alpha_2_code": "KI",
         "alpha_3_code": "KIR",
         "en_short_name": "Kiribati",
-        "nationality": "I-Kiribati"
+        "nationality": "I-Kiribati",
+        "id_short_name": "Kiribati",
+        "id_nationality": "Orang Kiribati"
     },
     {
         "num_code": "408",
         "alpha_2_code": "KP",
         "alpha_3_code": "PRK",
         "en_short_name": "Korea (Democratic People's Republic of)",
-        "nationality": "North Korean"
+        "nationality": "North Korean",
+        "id_short_name": "Republik Rakyat Demokratik Korea",
+        "id_nationality": "Orang Korea Utara"
     },
     {
         "num_code": "410",
         "alpha_2_code": "KR",
         "alpha_3_code": "KOR",
         "en_short_name": "Korea (Republic of)",
-        "nationality": "South Korean"
+        "nationality": "South Korean",
+        "id_short_name": "Republik Korea",
+        "id_nationality": "Orang Korea Selatan"
     },
     {
         "num_code": "414",
         "alpha_2_code": "KW",
         "alpha_3_code": "KWT",
         "en_short_name": "Kuwait",
-        "nationality": "Kuwaiti"
+        "nationality": "Kuwaiti",
+        "id_short_name": "Kuwait",
+        "id_nationality": "Orang Kuwait"
     },
     {
-        "num_code": "417",
+        "num_code": "17",
         "alpha_2_code": "KG",
         "alpha_3_code": "KGZ",
         "en_short_name": "Kyrgyzstan",
-        "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+        "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+        "id_short_name": "Kirgistan",
+        "id_nationality": "Orang Kirgistan"
     },
     {
         "num_code": "418",
         "alpha_2_code": "LA",
         "alpha_3_code": "LAO",
         "en_short_name": "Lao People's Democratic Republic",
-        "nationality": "Lao, Laotian"
+        "nationality": "Lao, Laotian",
+        "id_short_name": "Laos",
+        "id_nationality": "Orang Laos"
     },
     {
         "num_code": "428",
         "alpha_2_code": "LV",
         "alpha_3_code": "LVA",
         "en_short_name": "Latvia",
-        "nationality": "Latvian"
+        "nationality": "Latvian",
+        "id_short_name": "Latvia",
+        "id_nationality": "Orang Latvia"
     },
     {
         "num_code": "422",
         "alpha_2_code": "LB",
         "alpha_3_code": "LBN",
         "en_short_name": "Lebanon",
-        "nationality": "Lebanese"
+        "nationality": "Lebanese",
+        "id_short_name": "Lebanon",
+        "id_nationality": "Orang Lebanon"
     },
     {
         "num_code": "426",
         "alpha_2_code": "LS",
         "alpha_3_code": "LSO",
         "en_short_name": "Lesotho",
-        "nationality": "Basotho"
+        "nationality": "Basotho",
+        "id_short_name": "Lesotho",
+        "id_nationality": "Orang Lesotho"
     },
     {
         "num_code": "430",
         "alpha_2_code": "LR",
         "alpha_3_code": "LBR",
         "en_short_name": "Liberia",
-        "nationality": "Liberian"
+        "nationality": "Liberian",
+        "id_short_name": "Liberia",
+        "id_nationality": "Orang Liberia"
     },
     {
         "num_code": "434",
         "alpha_2_code": "LY",
         "alpha_3_code": "LBY",
         "en_short_name": "Libya",
-        "nationality": "Libyan"
+        "nationality": "Libyan",
+        "id_short_name": "Libya",
+        "id_nationality": "Orang Libya"
     },
     {
         "num_code": "438",
         "alpha_2_code": "LI",
         "alpha_3_code": "LIE",
         "en_short_name": "Liechtenstein",
-        "nationality": "Liechtenstein"
+        "nationality": "Liechtenstein",
+        "id_short_name": "Liechtenstein",
+        "id_nationality": "Orang Liechtenstein"
     },
     {
         "num_code": "440",
         "alpha_2_code": "LT",
         "alpha_3_code": "LTU",
         "en_short_name": "Lithuania",
-        "nationality": "Lithuanian"
+        "nationality": "Lithuanian",
+        "id_short_name": "Lithuania",
+        "id_nationality": "Orang Lithuania"
     },
     {
         "num_code": "442",
         "alpha_2_code": "LU",
         "alpha_3_code": "LUX",
         "en_short_name": "Luxembourg",
-        "nationality": "Luxembourg, Luxembourgish"
+        "nationality": "Luxembourg, Luxembourgish",
+        "id_short_name": "Luksemburg",
+        "id_nationality": "Orang Luksemburg"
     },
     {
         "num_code": "446",
         "alpha_2_code": "MO",
         "alpha_3_code": "MAC",
         "en_short_name": "Macao",
-        "nationality": "Macanese, Chinese"
+        "nationality": "Macanese, Chinese",
+        "id_short_name": "Makau",
+        "id_nationality": "Orang Makau"
     },
     {
         "num_code": "807",
         "alpha_2_code": "MK",
         "alpha_3_code": "MKD",
         "en_short_name": "Macedonia (the former Yugoslav Republic of)",
-        "nationality": "Macedonian"
+        "nationality": "Macedonian",
+        "id_short_name": "Republik Makedonia",
+        "id_nationality": "Orang Makedonia"
     },
     {
         "num_code": "450",
         "alpha_2_code": "MG",
         "alpha_3_code": "MDG",
         "en_short_name": "Madagascar",
-        "nationality": "Malagasy"
+        "nationality": "Malagasy",
+        "id_short_name": "Madagaskar",
+        "id_nationality": "Orang Madagaskar"
     },
     {
         "num_code": "454",
         "alpha_2_code": "MW",
         "alpha_3_code": "MWI",
         "en_short_name": "Malawi",
-        "nationality": "Malawian"
+        "nationality": "Malawian",
+        "id_short_name": "Malawi",
+        "id_nationality": "Orang Malawi"
     },
     {
         "num_code": "458",
         "alpha_2_code": "MY",
         "alpha_3_code": "MYS",
         "en_short_name": "Malaysia",
-        "nationality": "Malaysian"
+        "nationality": "Malaysian",
+        "id_short_name": "Malaysia",
+        "id_nationality": "Orang Malaysia"
     },
     {
         "num_code": "462",
         "alpha_2_code": "MV",
         "alpha_3_code": "MDV",
         "en_short_name": "Maldives",
-        "nationality": "Maldivian"
+        "nationality": "Maldivian",
+        "id_short_name": "Maldives",
+        "id_nationality": "Orang Maldives"
     },
     {
         "num_code": "466",
         "alpha_2_code": "ML",
         "alpha_3_code": "MLI",
         "en_short_name": "Mali",
-        "nationality": "Malian, Malinese"
+        "nationality": "Malian, Malinese",
+        "id_short_name": "Mali",
+        "id_nationality": "Orang Mali"
     },
     {
         "num_code": "470",
         "alpha_2_code": "MT",
         "alpha_3_code": "MLT",
         "en_short_name": "Malta",
-        "nationality": "Maltese"
+        "nationality": "Maltese",
+        "id_short_name": "Malta",
+        "id_nationality": "Orang Malta"
     },
     {
         "num_code": "584",
         "alpha_2_code": "MH",
         "alpha_3_code": "MHL",
         "en_short_name": "Marshall Islands",
-        "nationality": "Marshallese"
+        "nationality": "Marshallese",
+        "id_short_name": "Kepulauan Marshall",
+        "id_nationality": "Orang Marshall"
     },
     {
         "num_code": "474",
         "alpha_2_code": "MQ",
         "alpha_3_code": "MTQ",
         "en_short_name": "Martinique",
-        "nationality": "Martiniquais, Martinican"
+        "nationality": "Martiniquais, Martinican",
+        "id_short_name": "Martinik",
+        "id_nationality": "Orang Martinik"
     },
     {
         "num_code": "478",
         "alpha_2_code": "MR",
         "alpha_3_code": "MRT",
         "en_short_name": "Mauritania",
-        "nationality": "Mauritanian"
+        "nationality": "Mauritanian",
+        "id_short_name": "Mauritania",
+        "id_nationality": "Orang Mauritania"
     },
     {
         "num_code": "480",
         "alpha_2_code": "MU",
         "alpha_3_code": "MUS",
         "en_short_name": "Mauritius",
-        "nationality": "Mauritian"
+        "nationality": "Mauritian",
+        "id_short_name": "Mauritius",
+        "id_nationality": "Orang Mauritius"
     },
     {
         "num_code": "175",
         "alpha_2_code": "YT",
         "alpha_3_code": "MYT",
         "en_short_name": "Mayotte",
-        "nationality": "Mahoran"
+        "nationality": "Mahoran",
+        "id_short_name": "Mayotte",
+        "id_nationality": "Orang Mayotte"
     },
     {
         "num_code": "484",
         "alpha_2_code": "MX",
         "alpha_3_code": "MEX",
         "en_short_name": "Mexico",
-        "nationality": "Mexican"
+        "nationality": "Mexican",
+        "id_short_name": "Meksiko",
+        "id_nationality": "Orang Meksiko"
     },
     {
         "num_code": "583",
         "alpha_2_code": "FM",
         "alpha_3_code": "FSM",
         "en_short_name": "Micronesia (Federated States of)",
-        "nationality": "Micronesian"
+        "nationality": "Micronesian",
+        "id_short_name": "Federasi Mikronesia",
+        "id_nationality": "Orang Mikronesia"
     },
     {
         "num_code": "498",
         "alpha_2_code": "MD",
         "alpha_3_code": "MDA",
         "en_short_name": "Moldova (Republic of)",
-        "nationality": "Moldovan"
+        "nationality": "Moldovan",
+        "id_short_name": "Moldova",
+        "id_nationality": "Orang Moldova"
     },
     {
         "num_code": "492",
         "alpha_2_code": "MC",
         "alpha_3_code": "MCO",
         "en_short_name": "Monaco",
-        "nationality": "Mon\u00e9gasque, Monacan"
+        "nationality": "Mon\u00c3\u00a9gasque, Monacan",
+        "id_short_name": "Monako",
+        "id_nationality": "Orang Monako"
     },
     {
         "num_code": "496",
         "alpha_2_code": "MN",
         "alpha_3_code": "MNG",
         "en_short_name": "Mongolia",
-        "nationality": "Mongolian"
+        "nationality": "Mongolian",
+        "id_short_name": "Mongolia",
+        "id_nationality": "Orang Mongol"
     },
     {
         "num_code": "499",
         "alpha_2_code": "ME",
         "alpha_3_code": "MNE",
         "en_short_name": "Montenegro",
-        "nationality": "Montenegrin"
+        "nationality": "Montenegrin",
+        "id_short_name": "Montenegro",
+        "id_nationality": "Orang Montenegro"
     },
     {
         "num_code": "500",
         "alpha_2_code": "MS",
         "alpha_3_code": "MSR",
         "en_short_name": "Montserrat",
-        "nationality": "Montserratian"
+        "nationality": "Montserratian",
+        "id_short_name": "Montserrat",
+        "id_nationality": "Orang Montserrat"
     },
     {
         "num_code": "504",
         "alpha_2_code": "MA",
         "alpha_3_code": "MAR",
         "en_short_name": "Morocco",
-        "nationality": "Moroccan"
+        "nationality": "Moroccan",
+        "id_short_name": "Maroko",
+        "id_nationality": "Orang Maroko"
     },
     {
         "num_code": "508",
         "alpha_2_code": "MZ",
         "alpha_3_code": "MOZ",
         "en_short_name": "Mozambique",
-        "nationality": "Mozambican"
+        "nationality": "Mozambican",
+        "id_short_name": "Mozambik",
+        "id_nationality": "Orang Mozambik"
     },
     {
         "num_code": "104",
         "alpha_2_code": "MM",
         "alpha_3_code": "MMR",
         "en_short_name": "Myanmar",
-        "nationality": "Burmese"
+        "nationality": "Burmese",
+        "id_short_name": "Myanmar",
+        "id_nationality": "Orang Myanmar"
     },
     {
         "num_code": "516",
         "alpha_2_code": "NA",
         "alpha_3_code": "NAM",
         "en_short_name": "Namibia",
-        "nationality": "Namibian"
+        "nationality": "Namibian",
+        "id_short_name": "Namibia",
+        "id_nationality": "Orang Namibia"
     },
     {
         "num_code": "520",
         "alpha_2_code": "NR",
         "alpha_3_code": "NRU",
         "en_short_name": "Nauru",
-        "nationality": "Nauruan"
+        "nationality": "Nauruan",
+        "id_short_name": "Nauru",
+        "id_nationality": "Orang Nauru"
     },
     {
         "num_code": "524",
         "alpha_2_code": "NP",
         "alpha_3_code": "NPL",
         "en_short_name": "Nepal",
-        "nationality": "Nepali, Nepalese"
+        "nationality": "Nepali, Nepalese",
+        "id_short_name": "Nepal",
+        "id_nationality": "Orang Nepal"
     },
     {
         "num_code": "528",
         "alpha_2_code": "NL",
         "alpha_3_code": "NLD",
         "en_short_name": "Netherlands",
-        "nationality": "Dutch, Netherlandic"
+        "nationality": "Dutch, Netherlandic",
+        "id_short_name": "Belanda",
+        "id_nationality": "Orang Belanda"
     },
     {
         "num_code": "540",
         "alpha_2_code": "NC",
         "alpha_3_code": "NCL",
         "en_short_name": "New Caledonia",
-        "nationality": "New Caledonian"
+        "nationality": "New Caledonian",
+        "id_short_name": "Kaledonia Baru",
+        "id_nationality": "Orang Kaledonia Baru"
     },
     {
         "num_code": "554",
         "alpha_2_code": "NZ",
         "alpha_3_code": "NZL",
         "en_short_name": "New Zealand",
-        "nationality": "New Zealand, NZ"
+        "nationality": "New Zealand, NZ",
+        "id_short_name": "Selandia Baru",
+        "id_nationality": "Orang Selandia Baru"
     },
     {
         "num_code": "558",
         "alpha_2_code": "NI",
         "alpha_3_code": "NIC",
         "en_short_name": "Nicaragua",
-        "nationality": "Nicaraguan"
+        "nationality": "Nicaraguan",
+        "id_short_name": "Nikaragua",
+        "id_nationality": "Orang Nikaragua"
     },
     {
         "num_code": "562",
         "alpha_2_code": "NE",
         "alpha_3_code": "NER",
         "en_short_name": "Niger",
-        "nationality": "Nigerien"
+        "nationality": "Nigerien",
+        "id_short_name": "Niger",
+        "id_nationality": "Orang Niger"
     },
     {
         "num_code": "566",
         "alpha_2_code": "NG",
         "alpha_3_code": "NGA",
         "en_short_name": "Nigeria",
-        "nationality": "Nigerian"
+        "nationality": "Nigerian",
+        "id_short_name": "Nigeria",
+        "id_nationality": "Orang Nigeria"
     },
     {
         "num_code": "570",
         "alpha_2_code": "NU",
         "alpha_3_code": "NIU",
         "en_short_name": "Niue",
-        "nationality": "Niuean"
+        "nationality": "Niuean",
+        "id_short_name": "Niue",
+        "id_nationality": "Orang Niue"
     },
     {
         "num_code": "574",
         "alpha_2_code": "NF",
         "alpha_3_code": "NFK",
         "en_short_name": "Norfolk Island",
-        "nationality": "Norfolk Island"
+        "nationality": "Norfolk Island",
+        "id_short_name": "Pulau Norfolk",
+        "id_nationality": "Orang Pulau Norfolk"
     },
     {
         "num_code": "580",
         "alpha_2_code": "MP",
         "alpha_3_code": "MNP",
         "en_short_name": "Northern Mariana Islands",
-        "nationality": "Northern Marianan"
+        "nationality": "Northern Marianan",
+        "id_short_name": "Kepulauan Mariana Utara",
+        "id_nationality": "Orang Kepulauan Mariana Utara"
     },
     {
         "num_code": "578",
         "alpha_2_code": "NO",
         "alpha_3_code": "NOR",
         "en_short_name": "Norway",
-        "nationality": "Norwegian"
+        "nationality": "Norwegian",
+        "id_short_name": "Norwegia",
+        "id_nationality": "Orang Norwegia"
     },
     {
         "num_code": "512",
         "alpha_2_code": "OM",
         "alpha_3_code": "OMN",
         "en_short_name": "Oman",
-        "nationality": "Omani"
+        "nationality": "Omani",
+        "id_short_name": "Oman",
+        "id_nationality": "Orang Oman"
     },
     {
         "num_code": "586",
         "alpha_2_code": "PK",
         "alpha_3_code": "PAK",
         "en_short_name": "Pakistan",
-        "nationality": "Pakistani"
+        "nationality": "Pakistani",
+        "id_short_name": "Pakistan",
+        "id_nationality": "Orang Pakistan"
     },
     {
         "num_code": "585",
         "alpha_2_code": "PW",
         "alpha_3_code": "PLW",
         "en_short_name": "Palau",
-        "nationality": "Palauan"
+        "nationality": "Palauan",
+        "id_short_name": "Palau",
+        "id_nationality": "Orang Palau"
     },
     {
         "num_code": "275",
         "alpha_2_code": "PS",
         "alpha_3_code": "PSE",
         "en_short_name": "Palestine, State of",
-        "nationality": "Palestinian"
+        "nationality": "Palestinian",
+        "id_short_name": "Palestina",
+        "id_nationality": "Orang Palestina"
     },
     {
         "num_code": "591",
         "alpha_2_code": "PA",
         "alpha_3_code": "PAN",
         "en_short_name": "Panama",
-        "nationality": "Panamanian"
+        "nationality": "Panamanian",
+        "id_short_name": "Panama",
+        "id_nationality": "Orang Panama"
     },
     {
         "num_code": "598",
         "alpha_2_code": "PG",
         "alpha_3_code": "PNG",
         "en_short_name": "Papua New Guinea",
-        "nationality": "Papua New Guinean, Papuan"
+        "nationality": "Papua New Guinean, Papuan",
+        "id_short_name": "Papua Nugini",
+        "id_nationality": "Orang Papua Nugini atau Orang Papua"
     },
     {
         "num_code": "600",
         "alpha_2_code": "PY",
         "alpha_3_code": "PRY",
         "en_short_name": "Paraguay",
-        "nationality": "Paraguayan"
+        "nationality": "Paraguayan",
+        "id_short_name": "Paraguay",
+        "id_nationality": "Orang Paraguay"
     },
     {
         "num_code": "604",
         "alpha_2_code": "PE",
         "alpha_3_code": "PER",
         "en_short_name": "Peru",
-        "nationality": "Peruvian"
+        "nationality": "Peruvian",
+        "id_short_name": "Peru",
+        "id_nationality": "Orang Peru"
     },
     {
         "num_code": "608",
         "alpha_2_code": "PH",
         "alpha_3_code": "PHL",
         "en_short_name": "Philippines",
-        "nationality": "Philippine, Filipino"
+        "nationality": "Philippine, Filipino",
+        "id_short_name": "Filipin",
+        "id_nationality": "Orang Filipin"
     },
     {
         "num_code": "612",
         "alpha_2_code": "PN",
         "alpha_3_code": "PCN",
         "en_short_name": "Pitcairn",
-        "nationality": "Pitcairn Island"
+        "nationality": "Pitcairn Island",
+        "id_short_name": "Kepulauan Pitcairn",
+        "id_nationality": "Orang Pulau Pitcairn"
     },
     {
         "num_code": "616",
         "alpha_2_code": "PL",
         "alpha_3_code": "POL",
         "en_short_name": "Poland",
-        "nationality": "Polish"
+        "nationality": "Polish",
+        "id_short_name": "Polandia",
+        "id_nationality": "Orang Polandia"
     },
     {
         "num_code": "620",
         "alpha_2_code": "PT",
         "alpha_3_code": "PRT",
         "en_short_name": "Portugal",
-        "nationality": "Portuguese"
+        "nationality": "Portuguese",
+        "id_short_name": "Portugal",
+        "id_nationality": "Orang Portugal"
     },
     {
         "num_code": "630",
         "alpha_2_code": "PR",
         "alpha_3_code": "PRI",
         "en_short_name": "Puerto Rico",
-        "nationality": "Puerto Rican"
+        "nationality": "Puerto Rican",
+        "id_short_name": "Puerto Riko",
+        "id_nationality": "Orang Puerto Riko"
     },
     {
         "num_code": "634",
         "alpha_2_code": "QA",
         "alpha_3_code": "QAT",
         "en_short_name": "Qatar",
-        "nationality": "Qatari"
+        "nationality": "Qatari",
+        "id_short_name": "Qatar",
+        "id_nationality": "Orang Qatar"
     },
     {
         "num_code": "638",
         "alpha_2_code": "RE",
         "alpha_3_code": "REU",
-        "en_short_name": "R\u00e9union",
-        "nationality": "R\u00e9unionese, R\u00e9unionnais"
+        "en_short_name": "R\u00c3\u00a9union",
+        "nationality": "R\u00c3\u00a9unionese, R\u00c3\u00a9unionnais",
+        "id_short_name": "R\u00c3\u00a9union",
+        "id_nationality": "Orang R\u00c3\u00a9union"
     },
     {
         "num_code": "642",
         "alpha_2_code": "RO",
         "alpha_3_code": "ROU",
         "en_short_name": "Romania",
-        "nationality": "Romanian"
+        "nationality": "Romanian",
+        "id_short_name": "Rumania",
+        "id_nationality": "Orang Rumania"
     },
     {
         "num_code": "643",
         "alpha_2_code": "RU",
         "alpha_3_code": "RUS",
         "en_short_name": "Russian Federation",
-        "nationality": "Russian"
+        "nationality": "Russian",
+        "id_short_name": "Rusia",
+        "id_nationality": "Orang Rusia"
     },
     {
         "num_code": "646",
         "alpha_2_code": "RW",
         "alpha_3_code": "RWA",
         "en_short_name": "Rwanda",
-        "nationality": "Rwandan"
+        "nationality": "Rwandan",
+        "id_short_name": "Rwanda",
+        "id_nationality": "Orang Rwanda"
     },
     {
         "num_code": "652",
         "alpha_2_code": "BL",
         "alpha_3_code": "BLM",
-        "en_short_name": "Saint Barth\u00e9lemy",
-        "nationality": "Barth\u00e9lemois"
+        "en_short_name": "Saint Barth\u00c3\u00a9lemy",
+        "nationality": "Barth\u00c3\u00a9lemois",
+        "id_short_name": "Saint Barth\u00c3\u00a9lemy",
+        "id_nationality": "Orang Saint Barth\u00c3\u00a9lemy"
     },
     {
         "num_code": "654",
         "alpha_2_code": "SH",
         "alpha_3_code": "SHN",
         "en_short_name": "Saint Helena, Ascension and Tristan da Cunha",
-        "nationality": "Saint Helenian"
+        "nationality": "Saint Helenian",
+        "id_short_name": "Saint Helena, Acension, an Tristan da Cunha",
+        "id_nationality": "Orang Saint Helena"
     },
     {
         "num_code": "659",
         "alpha_2_code": "KN",
         "alpha_3_code": "KNA",
         "en_short_name": "Saint Kitts and Nevis",
-        "nationality": "Kittitian or Nevisian"
+        "nationality": "Kittitian or Nevisian",
+        "id_short_name": "Saint Kitts and Nevis",
+        "id_nationality": "Orang Kitts atau Orang Nevis"
     },
     {
         "num_code": "662",
         "alpha_2_code": "LC",
         "alpha_3_code": "LCA",
         "en_short_name": "Saint Lucia",
-        "nationality": "Saint Lucian"
+        "nationality": "Saint Lucian",
+        "id_short_name": "Saint Lucia",
+        "id_nationality": "Orang Saint Lucia"
     },
     {
         "num_code": "663",
         "alpha_2_code": "MF",
         "alpha_3_code": "MAF",
         "en_short_name": "Saint Martin (French part)",
-        "nationality": "Saint-Martinoise"
+        "nationality": "Saint-Martinoise",
+        "id_short_name": "Saint Martin (Prancis)",
+        "id_nationality": "Orang Saint Martin"
     },
     {
         "num_code": "666",
         "alpha_2_code": "PM",
         "alpha_3_code": "SPM",
         "en_short_name": "Saint Pierre and Miquelon",
-        "nationality": "Saint-Pierrais or Miquelonnais"
+        "nationality": "Saint-Pierrais or Miquelonnais",
+        "id_short_name": "Saint Pierre dan Miquelon",
+        "id_nationality": "Orang Saint-Pierre atau Orang Miquelon"
     },
     {
         "num_code": "670",
         "alpha_2_code": "VC",
         "alpha_3_code": "VCT",
         "en_short_name": "Saint Vincent and the Grenadines",
-        "nationality": "Saint Vincentian, Vincentian"
+        "nationality": "Saint Vincentian, Vincentian",
+        "id_short_name": "Saint Vincent dan Grenadines",
+        "id_nationality": "Orang Saint Vincent atau Orang Vincent"
     },
     {
         "num_code": "882",
         "alpha_2_code": "WS",
         "alpha_3_code": "WSM",
         "en_short_name": "Samoa",
-        "nationality": "Samoan"
+        "nationality": "Samoan",
+        "id_short_name": "Samoa",
+        "id_nationality": "Orang Samoa"
     },
     {
         "num_code": "674",
         "alpha_2_code": "SM",
         "alpha_3_code": "SMR",
         "en_short_name": "San Marino",
-        "nationality": "Sammarinese"
+        "nationality": "Sammarinese",
+        "id_short_name": "San Mrino",
+        "id_nationality": "Orang San Marino"
     },
     {
         "num_code": "678",
         "alpha_2_code": "ST",
         "alpha_3_code": "STP",
         "en_short_name": "Sao Tome and Principe",
-        "nationality": "S\u00e3o Tom\u00e9an"
+        "nationality": "S\u00c3\u00a3o Tom\u00c3\u00a9an",
+        "id_short_name": "Sao Tome dan Principe",
+        "id_nationality": "Orang Sao Tome"
     },
     {
         "num_code": "682",
         "alpha_2_code": "SA",
         "alpha_3_code": "SAU",
         "en_short_name": "Saudi Arabia",
-        "nationality": "Saudi, Saudi Arabian"
+        "nationality": "Saudi, Saudi Arabian",
+        "id_short_name": "Arab Saudi",
+        "id_nationality": "Orang Arab"
     },
     {
         "num_code": "686",
         "alpha_2_code": "SN",
         "alpha_3_code": "SEN",
         "en_short_name": "Senegal",
-        "nationality": "Senegalese"
+        "nationality": "Senegalese",
+        "id_short_name": "Senegal",
+        "id_nationality": "Orang Senegal"
     },
     {
         "num_code": "688",
         "alpha_2_code": "RS",
         "alpha_3_code": "SRB",
         "en_short_name": "Serbia",
-        "nationality": "Serbian"
+        "nationality": "Serbian",
+        "id_short_name": "Serbia",
+        "id_nationality": "Orang Serbia"
     },
     {
         "num_code": "690",
         "alpha_2_code": "SC",
         "alpha_3_code": "SYC",
         "en_short_name": "Seychelles",
-        "nationality": "Seychellois"
+        "nationality": "Seychellois",
+        "id_short_name": "Seychelles",
+        "id_nationality": "Orang Seychelles"
     },
     {
         "num_code": "694",
         "alpha_2_code": "SL",
         "alpha_3_code": "SLE",
         "en_short_name": "Sierra Leone",
-        "nationality": "Sierra Leonean"
+        "nationality": "Sierra Leonean",
+        "id_short_name": "Sierra Leone",
+        "id_nationality": "Orang Sierra Leone"
     },
     {
         "num_code": "702",
         "alpha_2_code": "SG",
         "alpha_3_code": "SGP",
         "en_short_name": "Singapore",
-        "nationality": "Singaporean"
+        "nationality": "Singaporean",
+        "id_short_name": "Singapura",
+        "id_nationality": "Orang Singapura"
     },
     {
         "num_code": "534",
         "alpha_2_code": "SX",
         "alpha_3_code": "SXM",
         "en_short_name": "Sint Maarten (Dutch part)",
-        "nationality": "Sint Maarten"
+        "nationality": "Sint Maarten",
+        "id_short_name": "Saint Martin (Belanda)",
+        "id_nationality": "Orang Saint Martin"
     },
     {
         "num_code": "703",
         "alpha_2_code": "SK",
         "alpha_3_code": "SVK",
         "en_short_name": "Slovakia",
-        "nationality": "Slovak"
+        "nationality": "Slovak",
+        "id_short_name": "Slowakia",
+        "id_nationality": "Orang Slowakia"
     },
     {
         "num_code": "705",
         "alpha_2_code": "SI",
         "alpha_3_code": "SVN",
         "en_short_name": "Slovenia",
-        "nationality": "Slovenian, Slovene"
+        "nationality": "Slovenian, Slovene",
+        "id_short_name": "Slovenia",
+        "id_nationality": "Orang Slovenia"
     },
     {
         "num_code": "90",
         "alpha_2_code": "SB",
         "alpha_3_code": "SLB",
         "en_short_name": "Solomon Islands",
-        "nationality": "Solomon Island"
+        "nationality": "Solomon Island",
+        "id_short_name": "Kepulauan Solomon",
+        "id_nationality": "Orang Kepulauan Solomon"
     },
     {
         "num_code": "706",
         "alpha_2_code": "SO",
         "alpha_3_code": "SOM",
         "en_short_name": "Somalia",
-        "nationality": "Somali, Somalian"
+        "nationality": "Somali, Somalian",
+        "id_short_name": "Somalia",
+        "id_nationality": "Orang Somalia"
     },
     {
         "num_code": "710",
         "alpha_2_code": "ZA",
         "alpha_3_code": "ZAF",
         "en_short_name": "South Africa",
-        "nationality": "South African"
+        "nationality": "South African",
+        "id_short_name": "Afrika Selatan",
+        "id_nationality": "Orang Afrika Selatan"
     },
     {
         "num_code": "239",
         "alpha_2_code": "GS",
         "alpha_3_code": "SGS",
         "en_short_name": "South Georgia and the South Sandwich Islands",
-        "nationality": "South Georgia or South Sandwich Islands"
+        "nationality": "South Georgia or South Sandwich Islands",
+        "id_short_name": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+        "id_nationality": "Orang Georgia Selatan atau Orang Sandwich Island Selatan"
     },
     {
         "num_code": "728",
         "alpha_2_code": "SS",
         "alpha_3_code": "SSD",
         "en_short_name": "South Sudan",
-        "nationality": "South Sudanese"
+        "nationality": "South Sudanese",
+        "id_short_name": "Sudan Selatan",
+        "id_nationality": "Orang Sudan Selatan"
     },
     {
         "num_code": "724",
         "alpha_2_code": "ES",
         "alpha_3_code": "ESP",
         "en_short_name": "Spain",
-        "nationality": "Spanish"
+        "nationality": "Spanish",
+        "id_short_name": "Spanyol",
+        "id_nationality": "Orang Spanyol"
     },
     {
         "num_code": "144",
         "alpha_2_code": "LK",
         "alpha_3_code": "LKA",
         "en_short_name": "Sri Lanka",
-        "nationality": "Sri Lankan"
+        "nationality": "Sri Lankan",
+        "id_short_name": "Sri Lanka",
+        "id_nationality": "Orang Sri Lanka"
     },
     {
         "num_code": "729",
         "alpha_2_code": "SD",
         "alpha_3_code": "SDN",
         "en_short_name": "Sudan",
-        "nationality": "Sudanese"
+        "nationality": "Sudanese",
+        "id_short_name": "Sudan",
+        "id_nationality": "Orang Sudan"
     },
     {
         "num_code": "740",
         "alpha_2_code": "SR",
         "alpha_3_code": "SUR",
         "en_short_name": "Suriname",
-        "nationality": "Surinamese"
+        "nationality": "Surinamese",
+        "id_short_name": "Suriname",
+        "id_nationality": "Orang Suriname"
     },
     {
         "num_code": "744",
         "alpha_2_code": "SJ",
         "alpha_3_code": "SJM",
         "en_short_name": "Svalbard and Jan Mayen",
-        "nationality": "Svalbard"
+        "nationality": "Svalbard",
+        "id_short_name": "Svalbard dan Jan Mayen",
+        "id_nationality": "Orang Svalbard"
     },
     {
         "num_code": "748",
         "alpha_2_code": "SZ",
         "alpha_3_code": "SWZ",
         "en_short_name": "Swaziland",
-        "nationality": "Swazi"
+        "nationality": "Swazi",
+        "id_short_name": "Swaziland",
+        "id_nationality": "Orang Swazi"
     },
     {
         "num_code": "752",
         "alpha_2_code": "SE",
         "alpha_3_code": "SWE",
         "en_short_name": "Sweden",
-        "nationality": "Swedish"
+        "nationality": "Swedish",
+        "id_short_name": "Swedia",
+        "id_nationality": "Orang Swedia"
     },
     {
         "num_code": "756",
         "alpha_2_code": "CH",
         "alpha_3_code": "CHE",
         "en_short_name": "Switzerland",
-        "nationality": "Swiss"
+        "nationality": "Swiss",
+        "id_short_name": "Swiss",
+        "id_nationality": "Orang Swiss"
     },
     {
         "num_code": "760",
         "alpha_2_code": "SY",
         "alpha_3_code": "SYR",
         "en_short_name": "Syrian Arab Republic",
-        "nationality": "Syrian"
+        "nationality": "Syrian",
+        "id_short_name": "Suriah",
+        "id_nationality": "Orang Suriah"
     },
     {
         "num_code": "158",
         "alpha_2_code": "TW",
         "alpha_3_code": "TWN",
         "en_short_name": "Taiwan, Province of China",
-        "nationality": "Chinese, Taiwanese"
+        "nationality": "Chinese, Taiwanese",
+        "id_short_name": "Taiwan",
+        "id_nationality": "Orang Cina atau Orang Taiwan"
     },
     {
         "num_code": "762",
         "alpha_2_code": "TJ",
         "alpha_3_code": "TJK",
         "en_short_name": "Tajikistan",
-        "nationality": "Tajikistani"
+        "nationality": "Tajikistani",
+        "id_short_name": "Tajikistan",
+        "id_nationality": "Orang Tajikistan"
     },
     {
         "num_code": "834",
         "alpha_2_code": "TZ",
         "alpha_3_code": "TZA",
         "en_short_name": "Tanzania, United Republic of",
-        "nationality": "Tanzanian"
+        "nationality": "Tanzanian",
+        "id_short_name": "Tanzania",
+        "id_nationality": "Orang Tanzania"
     },
     {
         "num_code": "764",
         "alpha_2_code": "TH",
         "alpha_3_code": "THA",
         "en_short_name": "Thailand",
-        "nationality": "Thai"
+        "nationality": "Thai",
+        "id_short_name": "Thailand",
+        "id_nationality": "Orang Thailand"
     },
     {
         "num_code": "626",
         "alpha_2_code": "TL",
         "alpha_3_code": "TLS",
         "en_short_name": "Timor-Leste",
-        "nationality": "Timorese"
+        "nationality": "Timorese",
+        "id_short_name": "Timor Leste",
+        "id_nationality": "Orand Timor"
     },
     {
         "num_code": "768",
         "alpha_2_code": "TG",
         "alpha_3_code": "TGO",
         "en_short_name": "Togo",
-        "nationality": "Togolese"
+        "nationality": "Togolese",
+        "id_short_name": "Togo",
+        "id_nationality": "Orang Togo"
     },
     {
         "num_code": "772",
         "alpha_2_code": "TK",
         "alpha_3_code": "TKL",
         "en_short_name": "Tokelau",
-        "nationality": "Tokelauan"
+        "nationality": "Tokelauan",
+        "id_short_name": "Tokelau",
+        "id_nationality": "Orang Tokelau"
     },
     {
         "num_code": "776",
         "alpha_2_code": "TO",
         "alpha_3_code": "TON",
         "en_short_name": "Tonga",
-        "nationality": "Tongan"
+        "nationality": "Tongan",
+        "id_short_name": "Tonga",
+        "id_nationality": "Orang Tonga"
     },
     {
         "num_code": "780",
         "alpha_2_code": "TT",
         "alpha_3_code": "TTO",
         "en_short_name": "Trinidad and Tobago",
-        "nationality": "Trinidadian or Tobagonian"
+        "nationality": "Trinidadian or Tobagonian",
+        "id_short_name": "Trinidad dan Tobago",
+        "id_nationality": "Orang Trinidad atau Orang Tobago"
     },
     {
         "num_code": "788",
         "alpha_2_code": "TN",
         "alpha_3_code": "TUN",
         "en_short_name": "Tunisia",
-        "nationality": "Tunisian"
+        "nationality": "Tunisian",
+        "id_short_name": "Tunisia",
+        "id_nationality": "Orang Tunisia"
     },
     {
         "num_code": "792",
         "alpha_2_code": "TR",
         "alpha_3_code": "TUR",
         "en_short_name": "Turkey",
-        "nationality": "Turkish"
+        "nationality": "Turkish",
+        "id_short_name": "Turki",
+        "id_nationality": "Orang Turki"
     },
     {
         "num_code": "795",
         "alpha_2_code": "TM",
         "alpha_3_code": "TKM",
         "en_short_name": "Turkmenistan",
-        "nationality": "Turkmen"
+        "nationality": "Turkmen",
+        "id_short_name": "Turkmenistan",
+        "id_nationality": "Orang Turkmenistan"
     },
     {
         "num_code": "796",
         "alpha_2_code": "TC",
         "alpha_3_code": "TCA",
         "en_short_name": "Turks and Caicos Islands",
-        "nationality": "Turks and Caicos Island"
+        "nationality": "Turks and Caicos Island",
+        "id_short_name": "Kepulauan Turks dan Caicos",
+        "id_nationality": "Orang Kepulauan Turks dan Caicos"
     },
     {
         "num_code": "798",
         "alpha_2_code": "TV",
         "alpha_3_code": "TUV",
         "en_short_name": "Tuvalu",
-        "nationality": "Tuvaluan"
+        "nationality": "Tuvaluan",
+        "id_short_name": "Tuvalu",
+        "id_nationality": "Orang Tuvalu"
     },
     {
         "num_code": "800",
         "alpha_2_code": "UG",
         "alpha_3_code": "UGA",
         "en_short_name": "Uganda",
-        "nationality": "Ugandan"
+        "nationality": "Ugandan",
+        "id_short_name": "Uganda",
+        "id_nationality": "Orang Uganda"
     },
     {
         "num_code": "804",
         "alpha_2_code": "UA",
         "alpha_3_code": "UKR",
         "en_short_name": "Ukraine",
-        "nationality": "Ukrainian"
+        "nationality": "Ukrainian",
+        "id_short_name": "Ukraina",
+        "id_nationality": "Orang Ukraina"
     },
     {
         "num_code": "784",
         "alpha_2_code": "AE",
         "alpha_3_code": "ARE",
         "en_short_name": "United Arab Emirates",
-        "nationality": "Emirati, Emirian, Emiri"
+        "nationality": "Emirati, Emirian, Emiri",
+        "id_short_name": "Uni Emirat Arab",
+        "id_nationality": "Orang Emirati"
     },
     {
         "num_code": "826",
         "alpha_2_code": "GB",
         "alpha_3_code": "GBR",
         "en_short_name": "United Kingdom of Great Britain and Northern Ireland",
-        "nationality": "British, UK"
+        "nationality": "British, UK",
+        "id_short_name": "Britania Raya",
+        "id_nationality": "Orang Inggris"
     },
     {
         "num_code": "581",
         "alpha_2_code": "UM",
         "alpha_3_code": "UMI",
         "en_short_name": "United States Minor Outlying Islands",
-        "nationality": "American"
+        "nationality": "American",
+        "id_short_name": "Kepulauan Terluar Amerika Serikat",
+        "id_nationality": "Orang Amerika"
     },
     {
         "num_code": "840",
         "alpha_2_code": "US",
         "alpha_3_code": "USA",
         "en_short_name": "United States of America",
-        "nationality": "American"
+        "nationality": "American",
+        "id_short_name": "Amerika Serikat",
+        "id_nationality": "Orang Amerika"
     },
     {
         "num_code": "858",
         "alpha_2_code": "UY",
         "alpha_3_code": "URY",
         "en_short_name": "Uruguay",
-        "nationality": "Uruguayan"
+        "nationality": "Uruguayan",
+        "id_short_name": "Uruguay",
+        "id_nationality": "Orang Uruguay"
     },
     {
         "num_code": "860",
         "alpha_2_code": "UZ",
         "alpha_3_code": "UZB",
         "en_short_name": "Uzbekistan",
-        "nationality": "Uzbekistani, Uzbek"
+        "nationality": "Uzbekistani, Uzbek",
+        "id_short_name": "Uzbekistan",
+        "id_nationality": "Orang Uzbeki"
     },
     {
         "num_code": "548",
         "alpha_2_code": "VU",
         "alpha_3_code": "VUT",
         "en_short_name": "Vanuatu",
-        "nationality": "Ni-Vanuatu, Vanuatuan"
+        "nationality": "Ni-Vanuatu, Vanuatuan",
+        "id_short_name": "Vanuatu",
+        "id_nationality": "Orang vanuatu"
     },
     {
         "num_code": "862",
         "alpha_2_code": "VE",
         "alpha_3_code": "VEN",
         "en_short_name": "Venezuela (Bolivarian Republic of)",
-        "nationality": "Venezuelan"
+        "nationality": "Venezuelan",
+        "id_short_name": "Venezuela",
+        "id_nationality": "Orang Venezuela"
     },
     {
         "num_code": "704",
         "alpha_2_code": "VN",
         "alpha_3_code": "VNM",
         "en_short_name": "Vietnam",
-        "nationality": "Vietnamese"
+        "nationality": "Vietnamese",
+        "id_short_name": "Vietnam",
+        "id_nationality": "Orang Vietnam"
     },
     {
         "num_code": "92",
         "alpha_2_code": "VG",
         "alpha_3_code": "VGB",
         "en_short_name": "Virgin Islands (British)",
-        "nationality": "British Virgin Island"
+        "nationality": "British Virgin Island",
+        "id_short_name": "Kepulauan Virgin Britania Raya",
+        "id_nationality": "Orang Kepulauan Virgin Britania Raya"
     },
     {
         "num_code": "850",
         "alpha_2_code": "VI",
         "alpha_3_code": "VIR",
         "en_short_name": "Virgin Islands (U.S.)",
-        "nationality": "U.S. Virgin Island"
+        "nationality": "U.S. Virgin Island",
+        "id_short_name": "Kepulauan Virgin Amerika Serikat",
+        "id_nationality": "Orang Kepulauan Virgin Amerika Serikat"
     },
     {
         "num_code": "876",
         "alpha_2_code": "WF",
         "alpha_3_code": "WLF",
         "en_short_name": "Wallis and Futuna",
-        "nationality": "Wallis and Futuna, Wallisian or Futunan"
+        "nationality": "Wallis and Futuna, Wallisian or Futunan",
+        "id_short_name": "Wallis dan Futuna",
+        "id_nationality": "Orang Wallis atau Orang Futuna"
     },
     {
         "num_code": "732",
         "alpha_2_code": "EH",
         "alpha_3_code": "ESH",
         "en_short_name": "Western Sahara",
-        "nationality": "Sahrawi, Sahrawian, Sahraouian"
+        "nationality": "Sahrawi, Sahrawian, Sahraouian",
+        "id_short_name": "Sahara Barat",
+        "id_nationality": "Orang Sahara"
     },
     {
         "num_code": "887",
         "alpha_2_code": "YE",
         "alpha_3_code": "YEM",
         "en_short_name": "Yemen",
-        "nationality": "Yemeni"
+        "nationality": "Yemeni",
+        "id_short_name": "Yemen",
+        "id_nationality": "Orang Yemen"
     },
     {
         "num_code": "894",
         "alpha_2_code": "ZM",
         "alpha_3_code": "ZMB",
         "en_short_name": "Zambia",
-        "nationality": "Zambian"
+        "nationality": "Zambian",
+        "id_short_name": "Zambia",
+        "id_nationality": "Orang Zambia"
     },
     {
         "num_code": "716",
         "alpha_2_code": "ZW",
         "alpha_3_code": "ZWE",
         "en_short_name": "Zimbabwe",
-        "nationality": "Zimbabwean"
+        "nationality": "Zimbabwean",
+        "id_short_name": "Zimbabwe",
+        "id_nationality": "Orang Zimbabwe"
     }
 ]
